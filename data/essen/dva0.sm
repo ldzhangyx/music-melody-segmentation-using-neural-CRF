@@ -1,0 +1,2704 @@
+DVA
+CUT[Der Vorwirt
+    Es wollt ein Herr ausreiten,]
+CNR[wollt auf einen Kirchhof gehn streiten]
+REG[Europa, Mitteleuropa, Lothringen, Altripp]
+KEY[D0001  08  G FREI]
+MEL[-5-5-51_21-7b_123b
+    22121-5-5_-5_-6-71_
+    3b_244543b_221121-7b_
+    -5-5-51_3b_2_1_-71__ //] >>
+FCT[Ballade, Familienereignis]
+
+DVA
+CUT[Mach auf mein Schatz, mein goldne Pfort,
+    hoer an mein Stimm, hoer an mein Wort!]
+REG[Europa, Mitteleuropa, Lothringen, Altripp]
+KEY[D0002  16  G 4/4]
+MEL[-5_  -5_1_1_-7_1__.2_  3b_2_1__2__.
+    1_  -7b__2_2_1__-5_-6_  -7b__-6__-5__0_
+    5_  5_4_5_543b__.4_  5_6b_5_43b2__.
+    1_  1_-7b_1_2_3b_4_5_4_  3b__2__1__0_ //] >>
+FCT[Tage - Lied, Kiltlied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Liebesklage
+    Es kommt die Zeit zum Offenbaren,]
+CNR[dir zu klagen meinen Schmerz]
+REG[Europa, Mitteleuropa, Lothringen, Altripp]
+KEY[D0003  08  D 4/4]
+MEL[5_  5_5_4_5_  7b_6_5_4_
+    7b_6_5_4_  5_3b_2__
+    5_5_1_23b  4_3b21_-7b_
+    3b_4_5_4_  3b_2_1_ //] >>
+FCT[Liebes - Klage]
+CMT[Taktwiederholung; Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Das Lied vom Zimmergesellen
+    Es war einmal gut Zimmergesell,]
+CNR[war gar ein stolzer Knab']
+REG[Europa, Mitteleuropa, Lothringen, Altripp]
+KEY[D0004  08  D 3/4]
+MEL[+1_  +1_7b_+1_  5__5_  4_4_4_  3b__
+    4_  5_6b_7b_  +1_7b_+1_  5__
+    7b_  7b_.+17b_  5_.7b7b_  5_.7b7b_  +1__
+    6b5  5_.43b_  4_.3b2_  1__
+    57b  7b_.+17b_  5_.7b7b_  5_.7b7b_  +1__
+    6b5  5_.43b_  4_.3b2_  1__ //] >>
+FCT[Ballade, Taten und Verbrechen]
+CMT[Laengenwerte in Zeile 263, 265 und 266 berichtigt; Sequenz,
+    Wiederholungen; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Nun adje, jetzt muss ich fort]
+REG[Europa, Mitteleuropa, Lothringen, Altripp]
+KEY[D0005  16  G 3/2]
+MEL[   1__-5__  1__.2_3___2__1_3_  2___0___
+    1__-5__  1__.2_3___2__1_3_  2___0__
+    1_2_3__1__  5__.6_5__4_3_2__1__  4__.5_3__
+    2_4_3__2__  1__.2_3__4_2_5__5_.4  3___0___ //] >>
+FCT[Soldaten - Lied]
+CMT[Inzipit = entfernte Variante zum Lied  ??]
+
+DVA
+CUT[Haescher des Herodes
+    Jetzt kraehen die Hahne, jetzt wird es bald Tag,]
+CNR[da wollen wir gehoeren, was Maria sprach]
+REG[Europa, Mitteleuropa, Lothringen, Morsbach ( Kr. Forbach )]
+KEY[D0007  08  E FREI]
+MEL[-7b2  3b_3b_21  -7b_-7b_
+    3b4  5_3b_423b__
+    5_  4_4_543b_1_
+    2_3b_1_2_1__ //] >>
+FCT[Legenden - Lied, Weihnachten]
+CMT[Inzipit = Variante zum Lied; Verzierung]
+
+DVA
+CUT[Haescher des Herodes
+    Jetzt kraehen die Hahne, jetzt wird's bald Tag]
+CNR[da wollen wir gehoeren, was Maria sprach]
+REG[Europa, Mitteleuropa, Lothringen, Morsbach ( Kr. Forbach )]
+KEY[D0007A 08  G 3/4]
+MEL[-7b_  3b_.21_  -7b_-7b_
+    3b4  5__4_  3b__
+    5_  4_4_54  3b_1_
+    2_  3b_1_2_  1__ //] >>
+FCT[Legenden - Lied, Weihnachten]
+CMT[Verzierung; Variante zu D0007]
+
+DVA
+CUT[Wenn Gott zwei Liebchen zusammen tut
+    und sie beisammen schlafen laesst]
+REG[Europa, Mitteleuropa, Lothringen, Morsbach ( Kr. Forbach )]
+KEY[D0008  08  G FREI]
+MEL[-5_1_2  3b__2__1__2__0_
+    -5_1_2  3b__2__1__2__0_
+    123b_4_  5__3b_5_43b  2_.2
+    4_3b_2_  1_.-5123b_2_  1__0_ //] >>
+FCT[Ballade, Maerchen, Zaubermaerchen]
+CMT[Zwei Strophenvarianten, 2. Strophe kodiert; Inzipit = Variante
+    zum Lied]
+
+DVA
+CUT[Graf Friedrich
+    Graf Friederich wollt ausreiten,]
+CNR[mit seinen adeligen Leuten]
+REG[Europa, Mitteleuropa, Lothringen, Morsbronn ( Kr. Forbach )]
+KEY[D0010  16  F FREI]
+MEL[-5__1_1_1__2__.3_4_3_2__
+    3_2_1__-5__1_1_2_3_4_5_2__
+    2__.1_-7_-6_-5_.-6-5_-5_1__2_2_3_1_2__
+    4_4_3__2__1__-5__1_2_3_3_2__1__ //] >>
+FCT[Ballade, Familienereignisse]
+CMT[Inzipit = entfernte Variante zum Lied ??]
+
+DVA
+CUT[Abgewiesener Knabe
+    Ist das nicht der Morgenstern,]
+CNR[der vor dem Tag aufgeht ?]
+REG[Europa, Mitteleuropa, Lothringen, Weiler ( Kr. Forbach )]
+KEY[D0011  16  F 6/8]
+MEL[-5_  1_2_3b_2_3b_4_  2_1__0__
+    54  5_4_3b_1_4_3b_  2__.0__
+    3b_  2_3b_4_5_4_5_  1__-7b_-7b__.
+    1_.23b_4_.3b2_  3b_2_1__0_ //] >>
+FCT[Kilt - Lied, abgewiesener Knabe]
+CMT[in der zweiten Zeile rhythmisch korrigiert]
+
+DVA
+CUT[Jungknab auf Botschaft
+    Es wollt ein Jungknab auf Botschaft gehn]
+CNR[zum schwarzbraun Maedel am Wege]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0012  08  E 4/4 3/4]
+MEL[   111  5__6_7b_  6_5_4__  ^_
+    4_5_5_  +1_.+2+1_  7b_6_5__
+    545_+1_  7b_6_5_  7b_+1_5__
+    7b_6_5_  4__5_  3b_2_1_  ^_.
+    111  5__4_  5_6b_5_3b_  2_1_0 //] >>
+FCT[Kilt - Lied]
+CMT[Achttonskala ( dorisch mit Alteration ?)
+    Taktwiederholung; Inzipit entfernte Variante zum Lied]
+
+DVA
+CUT[Ich seind so sehr betruebet,
+    die Ursach weiss ich wohl]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0013  16  G 4/4 3/4]
+MEL[-5__-5__-5__  -5__-5_.21__.3b2  1__0__0__
+    3b_4_  5__6b__5__  4__5__4_3b_  2___
+    5___  6b__5_4_4__2_4_  3b__2__1__
+    3b__  2__5__1_1_-7_2_  1___
+    5___  6b__5_4_4__2_4_  3b__2__1__
+    3b__  2__5__1_1_-7_2_  1___0___  0__ //] >>
+FCT[Liebes - Klage]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Abgewiesene Freier ( Drei Gesellen )
+    Es war'n mal drei junge Gesellen,]
+CNR[die taeten, was sie woellen]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0014  08  G 2/4]
+MEL[-5  1_-5-5  1_32  1_-5
+    -5  1_-5_  1_32  1_-5
+    3  3333  3_.3  2343  2_.
+    1  -7222  2554  3222  1_.
+    3  3333  3_.3  2343  2_.
+    1  -7222  2554  3222  1_. //] >>
+FCT[Ballade, Werbung]
+CMT[Takt - und Zeilenwiederholung;Inzipit = entfernte Variante zum Lied]
+
+DVA
+CUT[Der Nachtjaeger
+    Es blaset ein Jager wohl in sein Horn]
+CNR[er blaset das Wilper wohl aues das Korn]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0015  16  G 2/4]
+MEL[-5_  1__-7_-6_  -5__-5_-5_  4__4__  3__.
+    3_  3_2_4_2_  1__1_3_  2__2_-7_  1__.
+    11  -7_2_2_22  1_3_5_4_  3__2_2_  1__. //] >>
+FCT[Ballade, Zauber]
+CMT[Inzipit = entfernte Variante ??]
+
+DVA
+CUT[Der Nachtjaeger
+    Es blast ein Jager in seinem Horn,]
+CNR[er treibt das Wild wohl aus dem Korn]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0015A 16  G 2/4]
+MEL[-7b_  1_3b_2_1_  -7b__-7b_5_  5_4_5__  2__.
+    2_  3b_3b_4_44  5_.43b_
+    4_  5_4_3b_2_  1_3b_2__  1__0_ //] >>
+FCT[Ballade, Zauber]
+CMT[In der ersten Zeile Tonlaenge korrigiert und "Taktstrich" zugefuegt
+    Variante zu Lied D0015 ??]
+
+DVA
+CUT[Der Ring
+    Mein Freund hat mir versprochen etwas]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0016  08  E 2/4]
+MEL[1  13b21  -7b_-7b_  3b554  5_0
+    1  13b21  -7b_-7b_  3b554  5_
+    3b4  5556b  5_43b  4_
+    46b  5_12  1_-7b-6b  -7b_
+    24  3b_22  1_0 //] >>
+FCT[Liebes - Lied]
+CMT[Verzierungen; Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Der himmlische Ackersmann
+    Was wollen wir singen und fangen an?]
+CNR[Von einem himmlischen Ackersmann]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0018  08  E 3/4]
+MEL[3b1  1_1_1_  5_5_4_  5__4_  3b__
+    4_  4__5_  6b_5_4_  3b_1_2_  1__0_
+    4__.  3b_2_1_  -7b__
+    -7b_  3b_3b_4_  5_5_4_  3b_1_2_  1__0_ //] >>
+FCT[geistliches Lied]
+CMT[Inzipit = Variante zum Lied; Verzierungen]
+
+DVA
+CUT[Petrus und Pilatus
+    " Wo gehn wir dann hin wandern ?" sprach Petrus]
+REG[Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )]
+KEY[D0019  08  G 2/2]
+MEL[-5_  1_7_1_2_  3b__7b__
+    3__4__  5__0_
+    5_  6b_5_5_44  5__3b_
+    5_  4_3b_2_1_  2__-5__
+    1_.1-7__  1__0_ //] >>
+FCT[Kinder - Spiel]
+CMT[Inzipit = Variante zum Lied, Verzierung]
+
+DVA
+CUT[Petrus und Pilatus
+    " Wo gehn wir dann hin wandren ?" sprach Petrus.]
+REG[Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )]
+KEY[D0019A 16  G 2/4]
+MEL[-5_  1_7_1_2_  3b__7b__
+    3b__4__  5__0_
+    5_  6b_5_5_44  5__3b_
+    5_  4_3b_2_1_  2__-5__  ^__
+    1_1_  -7__1__  1__. //] >>
+FCT[Kinder - Spiel]
+CMT[Variante zu D0019]
+
+DVA
+CUT[Hoert allesamt was ich ereklaer'
+    Wo kommet denn der Ehstand her]
+REG[Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )]
+KEY[D0020  08  G FREI]
+MEL[-5_-5_1_1_3_21-7-6-5_.
+    -5  4_.23_.321-7-6-5_
+    -5_  4__3__2_0_
+    12  3_4_543_21234_
+    2_3_4_512_1-7-6_-5_0
+    -5  1_.32_.31_3_5_42  3__2__1__ //] >>
+FCT[Hochzeits - Lied]
+CMT[Caesuren nachtraeglich zugefuegt; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Das vierte Gebot ( Der Teufel als Freier )
+    Nun hoeret an, ihr Elteren]
+CNR[von so erschrecklichen Dingen]
+REG[Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )]
+KEY[D0021  08  D 4/4 2/4]
+MEL[3_  3_2_  1__.12  3_4_  5__.
+    3_  4_5_  6__6_5_  4__  3__.
+    5_  5_3_  6__.5_  4_6_  5__.
+    5_  6_55  5__4_4_  4_21  2__.
+    5_  667_  +1__5__  2__  1__0_ //] >>
+FCT[Zeitungs - Lied]
+CMT[Verzierung; Inzipit = Variante]
+
+DVA
+CUT[Der Lindenschmied
+    Es ist noch nit lang, als dieses geschah,]
+CNR[dass man den Lindenschmied reiten gesah]
+REG[Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )]
+KEY[D0022  16  G 6/8]
+MEL[-5-5  1__1_-7b__-7b_  3b_5_4_3b__
+    1_  2__3b_4_4_3b_  1_1_7_1__
+    2_  4_5_4_3b__2_  1__.-7b__
+    -7b_  3b_5_4_5__54  3b_4_5_4__.
+    5__.4_3b_2_  1_-5_1_3b_2_1_  -5__.1__ //] >>
+FCT[historisches Lied]
+
+DVA
+CUT[Lazarus und der Prasser
+    Der Lazarus leit auf dem Mist und schlief,]
+CNR[da schickte Gott ein Engel, der ihnen aufrief.]
+REG[Europa, Mitteleuropa, Lothringen, Gebenhausen]
+KEY[D0024  16  F 2/4]
+MEL[-5_  1_.11_2_  3__5_4_  3__2__  1__.
+    1_  2_.22_2_  2__3_4_  5__4_3_  2__0_
+    1_  3__3_4_  5__.5_  4_3_2_1_  4__0_
+    2_  5__4_2_  1_5_4_2_  3__2_-5_  1__0_ //] >>
+FCT[Legenden - Lied]
+CMT[Inzipit =  Variante]
+
+DVA
+CUT[Der eifersuechtige Knabe
+    Ich ging einmal spazieren]
+CNR[wohl in den Lustgarten hinein]
+REG[Europa, Mitteleuropa, Lothringen, Gebenhausen]
+KEY[D0026  16  G 6/8]
+MEL[5_  3__3_2__2_  1__.-5__
+    1_  1_1_2_3_1_2_  3__.^__
+    4_  3_5_5_6_5_4_  3__.2__.
+    1__.2__.  5_.43_4_3_2_  1__.^__ //] >>
+FCT[Ballade, Liebe, Mord aus Eifersucht]
+CMT[Inzipit = entfernte Variante zum Lied]
+
+DVA
+CUT[Gemalte Rosen
+    Es ging ein Maedchen Wasser hol'n]
+CNR[an einem tiefen Brunnen]
+REG[Europa, Mitteleuropa, Lothringen, Gebenhausen]
+KEY[D0027  08  D 2/2]
+MEL[5_  +1_5_5_5_  6_5_5_
+    5_  6_.44_3_  3__2__
+    1__3__  5__.0_
+    5__7__  +2__.
+    +1_  7_6_5_4_  4__3_ //] >>
+FCT[Ballade, Liebe]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Das faule Gretchen]
+CNR[Wer sich ein faules Gretchen nimmt,
+    der kann ja lustig sein]
+REG[Europa, Mitteleuropa, Lothringen, Gebenhausen]
+KEY[D0028  16  G 4/8]
+MEL[-5_  1_3_2_-7_  1_-6_-5_
+    -5_  -6_1_-7_2_  1__0_
+    -5_  1_3_2_-7_  1_-6_-5_
+    -5_  -6_1_-7_2_  1__
+    5_.4  3_3_3_3_  3_5_5__  3_5_5__
+    5_4_4_6_  6_5_3_
+    22  3_5_4_2_  1__0_ //] >>
+FCT[Spott - Lied]
+CMT[Mehrere rhythmische Korrekturen zum 4/8 - Takt durchgefuehrt
+    Verzierung; Inzipit = Variante]
+
+DVA
+CUT[Eleisonlied
+    Maria, die ging spazieren - Kyrieeleison.]
+CNR[Wohl unter einem alten Feigenbaum, Ave Maria.]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0029  08 F# 4/4 3/4 2/4]
+MEL[4444  +1__7b_5_  6b_5_4_  ^__
+    44  +1__.+1_  7b_+1_5__  ^_.
+    55555  +1__5_  5_4_3b_  ^_
+    46b  5_24  3b_2_  1__ //] >>
+FCT[Legenden - Lied]
+CMT[Im Original mit der Bemerkung "ohne Taktakzente" ueberschrieben,
+    aber mit Taktstrichen notiert; Inzipit = entfernte Variante]
+
+DVA
+CUT[Eleisonlied
+    Maria, die ging spazieren - Kyrieeleison.]
+CNR[Wohl unter einen alten Feigenbaum, Ave Maria.]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0029A 32  G FREI]
+MEL[4__4__4__  +1___.7b__5__  6b__5__4___
+    5__  +1___7b__+1__5___0__
+    5__5_.55_.5  +1___7b__6b___4__  3b___
+    (4__5__6b__)  5___1__4__  3b_2_1___ //] >>
+FCT[Legenden - Lied]
+CMT[Taktart veraendert ( siehe Lied D0029) ; Variante zu Lied D0029]
+
+DVA
+CUT[Ich stand mal auf hohem Berge,
+    da geseh ich ins tiefe Tal]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0030  08  G 3/4]
+MEL[-5_  1_.11_  2_3_4#_  5_.4#5_  2_3b_
+    23b  5_.6b5_  4_.35_  2_3b_0_
+    5__.  4#_5_2_  3b_2_1_  4__6b_  5__
+    5_  1_.23b_  4_3b_2_  1__ //] >>
+FCT[Liebes - Klage]
+CMT[Achttonskala (aeolisch mit fehlender Septime, in die Dominanttonart
+    (Ionisch) modulierend ); Inzipit = Variante zum Lied]
+
+DVA
+CUT[Das Zauberross
+    Es wollt' ein Maedchen frueh aufstehn,]
+CNR[frisch Wasser wollt' es holen gehn.]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0031  08  G FREI]
+MEL[-512  3_3_22  1_0
+    113  5_5_665
+    432  1_5_42  1_. //] >>
+FCT[Ballade, magisch, mythisch]
+CMT[Taktart in ' FREI ' korrigiert]
+
+DVA
+CUT[Es fliegen zwei Tauben wohl ueber den Rhein,:
+    sie kommen den ganzen Sommer nicht heim.]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0032  08  G 3/4]
+MEL[-5_  1_.23_  2_2_-5_  -6_-7_-6_  -5__
+    -5_  1_2_3_  2_2_5_  4#_.56_  5__
+    5_  1_2_3_  4_3_2_  1_3_2_  1__ //] >>
+FCT[Liebes - Lied]
+CMT[Achttonskala ( Ionisch, modulierend in die Dominanttonart )]
+
+DVA
+CUT[Der verkleidete Markgrafensohn
+    Es freit ein reicher Kaufmannssohn,]
+CNR[er freit die Koenigstochter]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0033  08  G 4/8 3/8 2/8]
+MEL[-5-5-5  1_-7-6  -712_  ^_.
+    2  321-7  -6_-5
+    2  223  225_  432  1_2
+    3  42  321  -7_.  1_. //] >>
+FCT[Ballade]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Sieben Straeuss
+    Es wollt ein Maedchen zum Tanze gehn.]
+CNR[Sieben Straeusselein hat es im Wasser stehn]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0034  08  D 3/4]
+MEL[5_5_4_  3b_.45_  543b_2_  ^__.
+    44445_  1_.23b_  2_1_-7b_  ^__
+    -7b_  3b__4_  5__43b  2__.  1__. //] >>
+FCT[Ballade, vergebliche Werbung]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Es fliegen zwei Tauben wohl ueber den Rhein,
+    Sie kommen den ganzen Sommer nicht heim]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0035  08  G 3/4]
+MEL[1_  5_5_4_  5_5_4_  5_5_4_  5__.  ^_0_
+    5_  1_.23b_  4_3b_2_  1_1_-7_  1__.  ^_0_
+    -5_  1_1_2_  1_1_-5_  7b_1_7b_  -5__.  ^_0_
+    1_  5_5_4_  5_5_4_  5_5_4_  5__.  ^_0_
+    5_  1_.23b_  4_3b_2_  1_1_-7_  1__.  ^_0_ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Variante zum Lied, beides Varianten zu Lied D0032]
+
+DVA
+CUT[Es fliegen zwei Tauben wohl ueber den Rhein,:
+    sie kommen den ganzen Sommer nicht heim.]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0035A 08  D 3/4]
+MEL[1_  4_4_5_  4_4_1_  3b_4_3b_  1__
+    1_  5_5_4_  5_5_4_  5_5_4_  5__
+    5_  1_.23b_  4_3b_2_  1_1_-7_  1__ //] >>
+FCT[Liebes - Lied]
+CMT[Variante zu D0035 und D0032]
+
+DVA
+CUT[Der verkleidete Reiter
+    Es war einmal ein Reiter,]
+CNR[ein Reiter von achtzehn Jahr]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0036  08  G 6/8]
+MEL[1  1_1121  -7b_.1_
+    2  3b2143b2  1_.^_
+    1  3b_-7b3b_4  5_.54
+    4  555121  -7b_.1_
+    2  3b2143b2  1_.^_ //] >>
+FCT[Ballade]
+CMT[Notenwert in Zeile 261 korrigiert]
+
+DVA
+CUT[Wiedersehn
+    Wie schoen blueht sich es der gruene Wald,]
+CNR[mit Laub war er gezieret]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0039  08  G 3/4]
+MEL[-5_  1_.23b_  2_3b_2_  1_-7_1_  -5__
+    -5_  1__2_  5_.65_  4_3_2_  ^_0_
+    32  1_1_54#  5_5_11  1_.-71_  -5__
+    -5_  1_2_5_  ^__43  2_.32_  1__ //] >>
+FCT[Ballade, Liebe, Wiedervereinigung der Liebenden]
+CMT[Neuntonskala (beginnt in Moll, moduliert sofort nach Ionisch)]
+
+DVA
+CUT[Totenlied
+    O Mensch, betracht die Welt!]
+CNR[Mit ihrer schnoeden Eitelkeit]
+REG[Europa, Mitteleuropa, Lothringen, Rechicourt ( Kr. Saarburg )]
+KEY[D0040  04  G 6/4]
+MEL[-5  1_12_2  3_.00
+    2  2_34_5  3_22_
+    3  4_3321  2_.00
+    3  3_22_1  1232_
+    3  3_22_1  1232_
+    3  5_23_3  1_.00 //] >>
+FCT[geistliches Lied, Tod, Totentanz]
+CMT[Verzierungen]
+
+DVA
+CUT[Gottselige Strickerin
+    Es war einmal eine gottselige Strickerin,]
+CNR[sie stricket im Winter und Sommer die Zeit]
+REG[Europa, Mitteleuropa, Lothringen, Rechicourt ( Kr. Saarburg )]
+KEY[D0041  16  F 3/8]
+MEL[1_  1_1_1_  1_1_1_  2_2_3_  4__4_  1__
+    1_  4_4_5_  6_6_65  4_2_3_  4__.  0__
+    4_  5_4_5_  6_6_5_  4__.  2__.
+    5__6_  4_.31_  2_3_3_  1__.  0__
+    1_  4_4_5_  6_6_5_  4__.  2__.
+    5__6_  4_.31_  2_3_1_  1__ //] >>
+FCT[religioeses Erzaehl - Lied]
+CMT[Verzierungen; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Entfuehrte Graserin
+    Es wollt Gott's Graeserin grasene gehn,]
+CNR[sie grast wohl in dem gruenen Klee]
+REG[Europa, Mitteleuropa, Lothringen, Rechicourt ( Kr. Saarburg )]
+KEY[D0042  16  F 2/4]
+MEL[1_  1__1__  5_.55_6_  5__4_3_  2___  ^__0_
+    5_  5_4_3_2_  1__2__  1_-7_-6__  -5___  ^__0_
+    -5_  1__1__  2__5__  3__2__  3___  3__2__  1___  ^__0_ //] >>
+FCT[Ballade]
+CMT[Verzierungen; Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Die himmlischen Freuden
+    Wir geniessen die himmlischen Freuden,]
+CNR[drum tut uns das Irdisch verleiden]
+REG[Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )]
+KEY[D0043  16  F 3/4]
+MEL[1_.1  3__3__4__  5__5__5__  3___4__  5___
+    5__  6__5__4__  3__2__1__  -7___1__  2___
+    1__  3__5__4#__  5__6__4#__  5__6__4#__  5__5__0__
+    6___+1__  7__.6_5__  +1__7__6__  5___.
+    4___.  3__5__3__  2__1__2__  1___ //] >>
+FCT[geistliches Lied]
+CMT[Achttonskala ( Ionisch in die Dominanttonart modulierend )
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[Gruene Reben auf hohen Bergen,
+    Ei, da waechst der beste Wein]
+REG[Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )]
+KEY[D0044  16  G 3/4 2/4]
+MEL[-5_.1  1_-5_-5_-5_1_2_  3_2_1__
+    3_.4  5__4_3_(1_2_3_)  2__0__
+    1__2_3_  3_.33_.5(5_4_3_)  (3_2_3_)2__
+    3_.2  1__1_.2(1_-7_-6_)  -5_.22__
+    3_.2  1_2_3_2_1_.-7  1__0__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Der Essigkrug
+    Wo ist der Mann aus diesem Haus,]
+CNR[der Oberhaupt]
+REG[Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )]
+KEY[D0045  16 Bb 2/4]
+MEL[-5_  1_1_-5_-5_  -6_-6_-5_0_
+    1__-6_-7_  1__0_
+    -5_  -3_-4_-5_4_  3__1_
+    3_  2_2_1_-7_  1__0_
+    -5-5  1__-5_-5-5  -6__-5_
+    -5_  1__-6_-7_  1__0_
+    -5_  1_1_2_4_  3__1_
+    3_  2_2_1_-7_  1__0_ //] >>
+FCT[Scherzlied auf einen Hausstand]
+CMT[Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Der lustige Nagelschmied
+    Willkomm, willkomm, Nagelschmied,]
+CNR[trio trio diralala]
+REG[Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )]
+KEY[D0046  16  G 2/4]
+MEL[1_1_3_3_  1_1_2__
+    3_1_5_55  3_2_1_0
+    1  1_1_3_3_  1_1_2__
+    3_1_5_55  3___ //] >>
+FCT[Staende - Lied]
+
+DVA
+CUT[Wilmens Esel]
+CNR[Et war e Wanter hart a kal,
+    Wellem fiehrt ma'm Jesel an de Wald]
+REG[Europa, Mitteleuropa, Lothringen, Breisdorf ( Kr. Diedenhofen )]
+KEY[D0047  16 Bb 2/4 3/4]
+MEL[-5_  1_1_1_2_  3_2_1__
+    2_1_2_3_  4_223__3__
+    5_4_3_2_  3_221__
+    2_2_2_3_  1_1_1__
+    2__2_1_  3_2_1_-7_  -6__0_ //] >>
+FCT[Ballade, Schwank]
+CMT[Heptatonik ( Ionisch, Schluss moduliert in parallele Molltonart)
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[Nun adje, Schatz, und ich muss fort,
+    ich muss wohl in die Fremde ziehn]
+REG[Europa, Mitteleuropa, Lothringen, Breisdorf ( Kr. Diedenhofen )]
+KEY[D0049  08  G 3/8]
+MEL[1  -5_1  3b_2  1_-7  1_.  ^_
+    1  3b_4  5_6b  53b4  5_.  ^_
+    5  7b_5  6b54  5_4  3b_.  ^_
+    5  5_4  43b2  1_-7  1_.  ^_ //] >>
+FCT[Ballade]
+
+DVA
+CUT[Die Lumpenbauern
+    Die Lumpenbauern wollen uns nichts mehr ins Kloster 'neinbringen,]
+CNR[da wollen wir ihnen aber auch kein Vesper mehr singen]
+REG[Europa, Mitteleuropa, Lothringen, Gebenhausen]
+KEY[D0050  16  G FREI4/4]
+MEL[-4_1111111112_1_.-7b-7b_-6_-6_
+    -4_111111112_1_.-7b-7b_-6_-6_
+    -4_11111111
+    11112_1_.-7b-7b_-7b_-6__
+    1__  1_1_1__2__2__  3__.3_3__
+    2__  1_1_1__2_2_2__  3__.3_3__0__
+    5___3__1__  2__2__1__ //] >>
+FCT[Schwell - Lied, Scherz und Spott]
+CMT[Die Tonrepetitionen in der ersten Zeile werden "psalmodierend"
+    (Vortragsbezeichnung) vorgetragen, zweiter Teil metrisch gebunden]
+
+DVA
+CUT[Die heilige Katharina
+    Der Koenig und der Kaiser,]
+CNR[die streiten wohl um eine Ehr]
+REG[Europa, Mitteleuropa, Lothringen, Gebenhausen]
+KEY[D0051  08  A 4/4]
+MEL[-5_  1_.23b_1_  2_7b_0_
+    3b_  1_-5-5-4-5-6b-4  -5_
+    3b_4_.5  3b_1143b2_  ^_
+    3b21_1_  -7_2_1_ //] >>
+FCT[Legenden - Lied]
+CMT[Verzierung; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Der eifersuechtige Knabe
+    Es stehen drei Sterne am Himmel,]
+CNR[sie geben der Welt ihren Schein]
+REG[Europa, Mitteleuropa, Lothringen, Settingen]
+KEY[D0052  08  G 3/4 4/4]
+MEL[-5_  -5_1_1_  1_2_3_  3_.23_  2__
+    2_  2_3_4_  4_5_6_  6__5_  3__
+    5_4_  3_.43_  2_1_5_  5__.  ^__
+    6_  5_.43_  2_5_4_  3__.  ^__ //] >>
+FCT[Ballade, Liebe, Mord aus Eifersucht]
+
+DVA
+CUT[Schloss in Oestreich
+    In Oestreich stand ein altes Schloss,]
+CNR[ein wunderschoens Gebaeude]
+REG[Europa, Mitteleuropa, Lothringen, Settingen]
+KEY[D0054  16  C 3/4]
+MEL[5_  5_+1_3__.3_  3_5_3__.
+    5_  5_5_6__.4_  4__3__0_
+    5_  5_7_+2__.4_  3_5_1__0__
+    +3__+2+1765_4_  4__3__0_
+    5_  5_+1_3__.3_  3_5_3__.
+    5_  5_5_6__.4_  4__3__0_
+    5_  5_7_+2__.4_  3_5_1__0__
+    +3__+2+1765_4_  4__3__0_ //] >>
+FCT[ Ballade, Liebe, menschliche Grausamkeit]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Die irdische Pilgerfahrt
+    Ich weiss ein schoen's Himmelreich]
+CNR[gar schoen war es gebauet]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0055  08  G 3/4 4/4]
+MEL[1_  1__1_  5__.  6b_7b_6b_  5__
+    5_  4_.54_  3b_2_12  3b_2_1_  0__
+    +1_  5_5_+1_  5_5_4_  3b_.53b2  1__
+    1__  3b_5_4_  5_.6b54  3b__2_1_  ^_0__. //] >>
+FCT[geistliches Lied]
+CMT[Sonderzeichen in der Notation]
+
+DVA
+CUT[Falkenlied
+    Ich geseh mir zwei Falken fliegen,]
+CNR[sie fliegen wohl ueber den Rhein]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0056  08  G FREI]
+MEL[11111_  5_.4543b21_0_
+    5_6b6b5_4_5_43b2_0_
+    11_1_  5_.4543b21_0_
+    3b_23b4_2_5_3b21_ //] >>
+FCT[Legenden - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Dreikoenigslied
+    Nun macht euch auf ihr Koenige]
+CNR[und saeumet euch nicht lang]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0057  08  G 4/4]
+MEL[-5_  1-7-6_-7_1_  2_.32_
+    -7-5  1_1_4_3_  2__0_
+    -5_  1-7-6_-7_1_  2_.32_
+    -7-5  1_1_4_3_  2__0_
+    -71  2_.321-7-6  -5_.-4#-5_
+    -5_  1_.21_-7_  -6__-5_
+    -5_  1-7-6_-7_1_  2_.31_
+    4_  3_3_212_  1__0_ //] >>
+FCT[ Brauchtums - Lied, Dreikoenigs - Lied]
+CMT[Achttonskala (Ionisch mit Modulation in die Dominanttonart)
+    Verzierungen; Inzipit = Variante zum Lied]
+
+DVA
+CUT['s Geigenbuebele
+    Als ich einmal kleins Buewele war,]
+CNR[kleins Buewele in der Wiege]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0058  08  G 3/4]
+MEL[-5_  1_.-71_  2__5_  3_.23_  1__
+    1_  2_.34_  5_.43_  1_.23_  2__
+    2_  5_.65_  543_2_  1_.-513  2_.3
+    1_  2_.34_  5_.43_  2__5_  1__ //] >>
+FCT[Ballade, magisch, mythisch]
+CMT[haeufige Wiederholung eines rhythmischen Motivs; Verzierung;
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[Drei Soldaten
+    Es waren mal drei Soldaten,]
+CNR[gar unschuldiges Blut]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0059  08  D 4/4]
+MEL[1_  1_.23_44  5_.65_
+    +1_  765_676_  5__0_
+    5_  +1_5_676_  5_.43_
+    6_  6_5_5353  3_1_2_
+    56  5_243_2_  1__0_ //] >>
+FCT[Ballade, Liebe, Freibitte fuer den Geliebten]
+CMT[Verzierung; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Die wiedergefundene Schwester
+    Es reisen ihrer Herren alle dreie,]
+CNR[sie reiten, Frau Wirtin, gar schoene]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0060  16  F 3/4]
+MEL[-5__  1__1__1_1_  2__2__3_3_  4___.  1__0__
+    3_4_  5__.6_5__  2__2__5__  5__4__3__  2__0__
+    5_.4  3__2__3__  1__1__3__  1__2__3__  2__0__
+    2__  1__1__6__  5__.4_3_5_  5_4_3__2__  1__0__
+    2__  1__1__6__  5__.4_3_5_  5_4_3__2__  1__0__ //] >>
+FCT[Ballade, Familie, Wiederfinden von Familienangehoerigen]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Der arme Bauer
+    O, ich armer Lothringer Bur,]
+CNR[wie isch mir das Laewe sur!]
+REG[Europa, Mitteleuropa, Lothringen, Bettringen b. Holvingen
+    (Kr. Forbach)]
+KEY[D0061  08  G 3/4]
+MEL[55  5_553b1  2__
+    56b  5_.53b1  2_0
+    444  4_.456b  5_0
+    43b2  1_2_3b2  1_.0 //] >>
+FCT[Bauern - Klage]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Arme Seele
+    Dort drunten, dort droben vor einiger Tuer,]
+CNR[da steht ein arme Seele ganz traurig dafuer]
+REG[Europa, Mitteleuropa, Lothringen, Woelflingen]
+KEY[D0062  16  A 3/8]
+MEL[-4_  1_1_1_  -7b_-6_-5_  3b_2_1_  2_0_
+    -7b_  2_3b_44  3b_2_1_  -7b_1_2_  1_0_ //] >>
+FCT[geistliches Lied]
+CMT[Inzipit = Variante zum Lied ( siehe folgendes Beispiel )]
+
+DVA
+CUT[Arme Seele
+    Dort drunten, dort droben vor einiger Tuer,]
+CNR[da steht eine arm Seele ganz traurig dafuer.]
+REG[Europa, Mitteleuropa, Lothringen, Woelflingen]
+KEY[D0062A 16  G 3/8]
+MEL[-4_  1_1_1_  -7b_-6_-5_  3b_2_1_  2_0_
+    -7b_  2_3b3b4_  3b_2_1_  -7_1_2_  1__0_ //] >>
+FCT[geistliches Lied]
+CMT[Variante zu D0062]
+
+DVA
+CUT[Schneider - Verschwoerung
+    Es haben sich sieben und siebzig Schneider verschworen,]
+CNR[nach Frankfurt wollen sie reisen,]
+REG[Europa, Mitteleuropa, Lothringen, Woelflingen]
+KEY[D0063  16  A 3/4]
+MEL[-4__  -4__1__1__  1_111__2__  1__-7b__-7b__  -7b__-7b__
+    -7b__  -7b___3b__  3b__3b__3b__  3b___.  3b___
+    3b_.3b  2__.2_2__  1__1__1__  1___ //] >>
+FCT[Spott - Lied]
+CMT[rezitativisch, Vortragsbezeichnung: lustig, schalkhaft
+    Verzierung; Inzipt = Variante zum Lied]
+
+DVA
+CUT[Der Wolf ( Der Abendgang )
+    Wer wohnt in jenem Tale ?]
+CNR[Ein wunderschoenes Maedchen]
+REG[Europa, Mitteleuropa, Lothringen, Woelflingen]
+KEY[D0064  16  G 4/4]
+MEL[-5__  1__.2_3__3_5_  2__.321__
+    -5__  1__.2_3__3_5_  2___.
+    3_2_  1__.2_3__4_6_  5__.6_5__
+    5_.4  3__3__2__2_-7_  1___.
+    -5__  1__.2_3__4_6_  5__.6_5__
+    5_.4  3__3__2__2_-7_  1___. //] >>
+FCT[Ballade, Tod eines Geliebten]
+
+DVA
+CUT[St. Odilien
+    Als Sankt Odilien geboren war,]
+CNR[ihr Vater ein grosser Kuefer war]
+REG[Europa, Mitteleuropa, Lothringen, Woelflingen]
+KEY[D0065  16  G 3/8]
+MEL[5_  5__5_  5_5_5_  +1_7b_+1_  5__.  ^__
+    7b_  7b_.7b7b_  7b_+1_7b_  6b_5_4_  3b__.  ^__
+    5_  4_5_6b_  5__4_  3b__2_  1__.  ^__ //] >>
+FCT[Legenden - Lied]
+CMT[In Zeile 261 und 263 rhythmisch korrigiert
+    Grundton in der kleinen Oktave]
+
+DVA
+CUT[Als Sankt Justil blind geboren war,CNR[und ihr Vater ein Pfalzgraf war]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0066  16  G 3/8]
+MEL[5__2_  2__5_  7b__+1_  7b__6_  5__.
+    5__5_  4_.45_  3b__2_  1__.  ^__
+    1_  3b__3b_  5_4_4_  5__.  5_4_3b_  2__.  1__. //] >>
+FCT[Legenden - Lied]
+
+DVA
+CUT[Schlangenkoechin
+    " Wo bist Du gewesen, meine Tochter Marjae ?"]
+CNR[" Bei meiner Stiefgothe, O Mama, wie weh !"]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0067  08  F 3/4]
+MEL[34  5_3_56  4_2_
+    44  3_1_3_  2__
+    -5_  1_1_2_  3_3_
+    4_  5_4_7_  1__ //] >>
+FCT[Ballade]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Schlangenkoechin
+    " Wo bist du gewesen, meine Tochter Marjaeh ?"]
+CNR[" Bei meiner Patengothe, o Mutter wie weh ."]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0067A 08  G 3/4]
+MEL[34  5_3_5_  432_
+    44  3_1_3_  2__
+    -5_  1_1_22  3_3_
+    34  5_3_2_  1__ //] >>
+FCT[Ballade]
+CMT[In der zweiten Zeile rhythmisch korrigiert; Variante zu D0067]
+
+DVA
+CUT[Gute Meinung
+    Wenn ich morgens frueh aufstehe]
+CNR[und zu meinr Arbeit gehe]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0068  08 Eb 4/4]
+MEL[12345_5_  67+16655_
+    54655_12  3432211_
+    3_.5544_  3153322_
+    3_.5544_  3153322_
+    12345_5_  67+165__
+    54655_12  34321_0_
+    12345_5_  67+165__
+    54655_12  34321_0_ //] >>
+FCT[geistliches Lied]
+CMT[Verzierungen; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Sieben Straeuss
+    Es wollt ein Maedelein frueh aufstehn,]
+CNR[sieben Straeuss hat es am Fenster stehn]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0069  08  G FREI]
+MEL[1_1_3_5_.65_2_3_4_0_
+    553_2_3_1_-7_132_
+    5_.7b6_5_54312__1_ //] >>
+FCT[Ballade, abgewiesener Liebhaber]
+
+DVA
+CUT[Als Gott die Welt erschaffen hat
+    und allerlei Getier]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0070  08  D 2/4]
+MEL[1  1234  555
+    5  67+16  650
+    5  5442  133
+    3  2342  1_0 //] >>
+FCT[geistliches Scherz - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Ja grueass di God, Frual vo da Au
+    ja lebst denn du a no, schau, schau]
+REG[Europa, Mitteleuropa, Deutschland, Niederbayern]
+KEY[D0072  08  C 3/4]
+MEL[-5_  3_.33_  5_.333  4_0_0_  0_0_
+    -5_  4_4_5_  6_5_4_  3_0_0_  0_0_
+    -5_  3_.33_  5_.33_  4_0_0_  0_0_
+    -5_  4_4_5_  6_5_4_  3_0_
+    3_  4_.45_  6_5_4_  333_4_  5_4_
+    3_  2_.22_  4_3_2_  3_0_
+    3_  2_3_4_  5_5_4_  3_0_ //] >>
+FCT[historisches Lied, bayrische Erbfolgekriege]
+CMT[Pentatonik (Grundton ?) , Unterstimme in Terzparallelen (ergaenzt
+    die Skala zur Heptatonik - Ionisch) ; Grundton in der
+    zweigetrichenen Oktave; Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Ueba d' Alma, da gibts Kalma,
+    da gibts weixlbraune Kueah]
+REG[Europa, Mitteleuropa, Deutschland, Bayernalpe]
+KEY[D0073  16  D 3/4]
+MEL[1_.1  1_-3_-5__1_.1  -7__-4__
+    -7_-7_  -7__1__2_2_  3_+1_5__
+    4_4_  3__-5__3__  4__.3_
+    2_1_  -7__-4_-5_-7_-4_  -3___
+    1_.1  1_-3_-5__1_.1  -7__-4__
+    -7_-7_  -7__1__2__  3_+1_5__
+    4_4_  3__-5__3__  4__.3_
+    2_1_  -7__-4_-5_-7_-5_  -3___ //] >>
+FCT[Kilt - Lied]
+CMT[Unterstimme in Terzen und Sexten (ergaenzt die Skala zur Heptatonik
+    Ionisch) ; Grundton in der zweigestrichenen Oktave
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[Uebers Loaterl, da steig i net aufi,
+    da Gangsteig der is ma z' hoch drobn]
+REG[Europa, Mitteleuropa, Deutschland, Bayernalpe]
+KEY[D0074  16  F 3/4]
+MEL[3_3_  3_5_+1__.3_  5__.4_3__  5_2_4__0_
+    4_  4_5_7__.4_  6__5__4__  3__0__0_
+    3_  3_5_+1__.3_  5__4__3__  5_2_4__.
+    4_  4_5_7__.4_  6__5__4__  3__0__0__
+    2_222__-5_0_  3_+1_5__+1_5_  7__.6_4__  3__0__0__
+    2_222__-5_0_  3_+1_5__+1_5_  7__.6_4__  3__0__
+    5_5_  6__.5_3__  5__.4_2__  7__.6_4__  6__.5_3__
+    6__.5_3__  5__.4_2__  7__.6_5_4_  3__0__ //] >>
+FCT[Kilt - Lied]
+CMT[Unterstimme vorwiegend in Terzen; Verzierung; Inzipit = Variante]
+
+DVA
+CUT[Bei da Lind'n bin i g'sessn,]
+CNR[bei da Lind'n sitz i gern]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[D0076  16  F 3/4]
+MEL[-5_3_  3__2__-5_4_  4__3__
+    -5_3_  3__2__-5_4_  4__3__
+    3__  4_6_6__5_4_  4_.3+1_5_
+    3_5_  5__4__4__  3__0__
+    3__  4_6_6__5_4_  4_.3+1_5_
+    3_5_  7__4__4__  3__0__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Andreas - Hofer - Lied
+    Ach Himml, es ist verspielt,]
+CNR[ich kann nicht mehr lang leben.]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[D0077  08  C 2/2]
+MEL[5__  3_3_3_3_  3__0_
+    5_  6_.54_3_  3_2_0_
+    5_  3_3_3_3_  3__0_
+    5_  6_.54_3_  3_2_0_
+    23  5_234_23  4__0_
+    34  5_345_34  5__0_
+    54  3_3_+1_6_  5__0_
+    54  3_345_54  3__ //] >>
+FCT[historisches Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Mei Voda sei Haeusl is mit Haberstroh deckt,
+    hulldri hulla di hulla, mit Haberstroh deckt.]
+REG[Europa, Mitteleuropa, Deutschland, Niederbayern]
+KEY[D0079  08  G 3/4]
+MEL[34  5_5_5_  3_3_
+    23  5_5_5_  4_0_
+    23  4_4_.3  2_2_
+    2_  5_5_4_  3_0_ //] >>
+FCT[Ehestands - Lied]
+CMT[Viertonskala (Grundton fehlt - vermutlich mit Unterstimme gesungen)]
+
+DVA
+CUT[Seckauer Jodler
+    Hoda rairidi ...]
+REG[Europa, Mitteleuropa, Deutschland, Niederbayern]
+KEY[D0079A 16  C 3/4]
+MEL[5_.3  5_.+3+2_+2_5_.5  3_5_+1__0_.
+    3  5_.+3+2_+2_5_.5  3_5_+1__0_.
+    3  5_.+3+2_+2_5_.5  +1_.+5+3_+3_
+    +1_.+1  5_.+3+2_+2_5_.5  +1_.+5+3_+3_
+    +1_.+1  5_.+3+2_+2_5_.5  3_.5+1_.+2+3_.+2  +1___ //] >>
+FCT[Jodler]
+CMT[Unterstimme notiert, ergaenzt die Skala zu Pentatonik; Inzipit =
+    Transposition zum Lied; DVA - Signatur 79A; KEINE Variante zum
+    vorhergehenden Lied !]
+
+DVA
+CUT[Weil i's Deandl net wegbring;
+    Hinder dem Bergl steht mei Deandl sei Haus,]
+REG[Europa, Mitteleuropa, Deutschland, Bayerischer Wald]
+KEY[D0080  08  G 3/4]
+MEL[33  5_+1_.+2  +1_5_
+    3_  457_.5  4__0
+    4  457_.7  7_.5
+    4_  35+1_.5  3__ //] >>
+FCT[Jodel - Lied]
+CMT[Grundton in der kleinen Oktave]
+
+DVA
+CUT[Bu hoscht du hin das Zautle
+    lei bes i dir hon gaben ?]
+REG[Europa, Mitteleuropa, Deutschland, Gottschee]
+KEY[D0085  08  F 4/4]
+MEL[-5_  5_.54_5_  3__3_
+    5_  4_.45_4_  3__5_0_
+    4_.4+1_6_  5_.55_+1_
+    7_.65_4_  3__0_ //] >>
+FCT[Liebes - Lied]
+CMT[Unterstimme in parallelen Terzen, ergaenzt die Skala zur Heptatonik
+    (Ionisch) ; erste Zeile rhythmisch korrigiert (Pause)
+    Inzipit = Variante zum Lied; DVA-Signatur 85a]
+
+DVA
+CUT[Dem Kuhlips war die Kau gepfaend't
+    der         taet's nich fassen]
+REG[Europa, Mitteleuropa, Deutschland, Mittelhessen, Langsdorf]
+KEY[D0087  08  G FREI]
+MEL[5  +1531  666_0
+    6  5542  330
+    5  +1531  666_0
+    6  5542  330 //] >>
+FCT[Bauern - Klage]
+CMT[Taktart in "FREI" korrigiert; Grundton in der kleinen Oktave]
+
+DVA
+CUT[Mis Bueoeli
+    Mis Schaetzaeli geit ueber Sapuener Staeg]
+CNR[i wuenschaemae Wassaer in d' Schuae]
+REG[Europa, Mitteleuropa,Schweiz, Kt. Graubuenden, Chur]
+KEY[D0089  16 Eb 6/8]
+MEL[5_  3_4_5_6_+1_6_  5__4_2__
+    5_  3_4_5_6_+1_6_  5__.0__
+    3_  2_3_2_1_2_3_  2_.32_1__
+    5_  3_4_5_6_+1_6_  5__.0__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Mis Bueoeli
+    Mis Schaetzaeli geit ueber Sapuener Staeg]
+CNR[i wuenschaemae Wassaer in d' Schuae]
+REG[Europa, Mitteleuropa,Schweiz, Kt. Graubuenden, Chur]
+KEY[D0089A 16 Eb 6/8]
+MEL[5_  3_4_5_6_+1_6_  5__4_2__
+    5_  3_4_5_6_+1_6_  5__.0__
+    3_  2_3_2_1_2_3_  2_.32_1__
+    3_  5_6_5_2_3_2_  1__.0__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Jodler]
+REG[Europa, Mitteleuropa, Schweiz, Kt. Wallis, Brigersberg]
+KEY[D0090  16  G 3/4]
+MEL[-5_-6_-7_  1__5__3__  +1__.6_5_3_  1__-7__5__  4__.
+    -5_-6_-7_  2_5_4_6_5_-75  1__6__5__  3___. //] >>
+FCT[Jodler]
+CMT[erste Zeile rhythmisch korrigiert
+    Notentext vollstaendig ??  Sonderzeichen in der Notation]
+
+DVA
+CUT[Eischterliedji]
+REG[Europa, Mitteleuropa,Schweiz, Kt. Wallis, Brigersberg]
+KEY[D0092  16  G 4/4]
+MEL[1_.2  3__3__3_.23_.4  5__5__0__
+    6_.5  5__4__6_5_4__  3___0__
+    1_.2  3__3__3_.23_.4  5__5__0__
+    6_.5  5__4__6_5_4__  3___0__ //] >>
+FCT[Jodel - Lied]
+
+DVA
+CUT[Steh ich an mein Fensterlein,
+    schau so trueb, so traurig drein]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0093  08  D 3/4 2/4]
+MEL[ 34  5_.655  4_0_
+    5+1  +3_.+2+2+1  5_0_
+    +17  6_.666  5_0_
+    55  4_7_  +1_0_
+    +17  6_.666  5_0_
+    55  4_7_  +1_0_ //] >>
+FCT[Liebesschmerz]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Schon wieder toent's vom Schacht zurueck
+    des Gloeckleins leises Hallen]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0094  16  G 2/4]
+MEL[    -5__-3_.-4  -5__-5__  -6__-7__  1__0_
+    1_  -7_2_1_-6_  -6_-5_0__
+    -5__-3_.-4  -5__-5__  -6__-7__  1__0_
+    1_  -7_2_1_-6_  -6_-5_0__  0__
+    -5__  2__.1_  -7_2_-5__  5__.4_  3__
+    -5__  4__.3_  2_2_-5__  6__.4_  3___  0__
+    1__  1__.1_  2__3__  4___  0__
+    3_2_  5___  5__4__  3___  0__
+    -5__  2__.1_  -7_2_-5__  5__.4_  3__
+    -5__  4__.3_  2_2_-5__  6__.4_  3___  0__
+    1__  1__.1_  2__3__  4___  0__
+    3_2_  5___  5__4__  3___ //] >>
+FCT[Arbeit, Staende - Lied, Bergmannslied]
+CMT[erste, dritte und fuenfte Zeile rhythmisch korrigiert; Zweiter Teil
+    des Liedes mehrstimmig; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Einst ein Jaeger wollte jagen
+    einen Gemsbock silbergrau]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0096  08  F 6/4]
+MEL[-5_.-6  -5_1_1__-5_.-6  -5_3_3__
+    4_.3  2_-5_2_-5_2_3_  1__.0_
+    -5_.-6  -5_1_1__-5_.-6  -5_3_3__
+    4_.3  2_-5_2_-5_2_3_  1__0_
+    -5_1_3_  4_6_6__5_.4  3_-5_3__
+    4_.3  2_-5_2_-5_2_3_  1__0__ //] >>
+FCT[Liebes - Lied, abgewiesener Liebhaber]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Gestern Abend in der stillen Ruh
+    hoert' ich einer jungen Amsel zu]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0098  16  C 3/4 4/4]
+MEL[1_5_  5_5_5_+1_+1_6_  5__3__
+    6_.5  7__.6_5_.44_3_  4_5_3__
+    5_5_  4_6_2__7_.7  +1_.65_6_
+    6_.5  5_4_2__6_.6  7_5_5__
+    1_5_  5_5_5_+1_+1_6_  5__3_066_5_  7__0_
+    6_5_4_4_3_  4_5_3__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Die Nachtpatrouille
+    Schoenster Schatz erlaub es mir]
+CNR[eine kleine Viertelstund]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0100  08  G 4/4]
+MEL[-5_.-4  -3_-5_1_3_  3__2__  0__0__
+    2__.1_  -7_-6_-5_-7_  1__
+    -5_.-4  -3_-5_1_3_  3_2_2__  0__0__
+    2__.1_  -7_-6_-5_-7_  1_2_3_0_  0__
+    1_35  5__3__  5_4_3_4_  3__
+    1_35  5__3__  5_4_3_4_  3__ //] >>
+FCT[Soldaten - Lied]
+CMT[Pause in der vierten Zeile eingefuegt; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Echo - Jodel]
+REG[Europa, Mitteleuropa, Schweiz, Bern]
+KEY[D0101  16  G 3/4]
+MEL[1__.2_3__  +1___1_.6  5___.
+    3__.+1_3__  4__7__.6_  5___.
+    2__.3_4__  7___^_.6  5___.
+    4__.+2_4__  3__5__+1__  +3___^_+2_  +1___. //] >>
+FCT[Jodler]
+CMT[vollstaendig ?]
+
+DVA
+CUT[D' Baarnertracht
+    Vom Himmel aba chunt a Staern,]
+CNR[er nimmt sy Waeg grad gaege Baern]
+REG[Europa, Mitteleuropa, Schweiz, Bern]
+KEY[D0103  16  F 4/4 3/4]
+MEL[3_2_  1_1_1_-5_1__2__  3___0__
+    3_2_  1_1_1_-5_1__2__  3___0__
+    1_2_  3_3_5__.3_4_3_  2___-5__
+    1_2_  3_3_5__.3_4_3_  2___-5__
+    3__  5__.3_(6_.54_)3_2_  3___0__
+    3__  1__2__3__4#__  5___-5__
+    1_3_  5__.6_5_4_  3__.2_1__  2___3__  1___
+    1_3_  5__.6_5_4_  3__.2_1__  2___3__  1___0__ //] >>
+FCT[Jodel - Lied, Heimat - Lied, Liebes - Lied]
+CMT[Siebentonskala (Ionisch mit Auslassung und Modulation in
+    die Dominanttonart) ; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Des Morgens in der Fruehe
+    da treiben wir die Kuehe]
+REG[Europa, Mitteleuropa, Oesterreich, Salzburg]
+KEY[D0120  16 Bb 3/4 4/4]
+MEL[         -5_  -5__.-3_-4_-6_  -5_3_1_0
+    -5(-5_-7_2_)  5_6__5_(4_-5_3_)  1___0_
+    -5_  -5__.-3_-4_-6_  -5_3_1_0
+    -2(-2_-4_-6_)  2_3__2_(1_-5_-7_)  -5___0_
+    -5_  -4_2_1__-7__  1__-5__-2_-3_  -4_2_-6__-7__  1___0_
+    1_  -4__.-6_21-7-6  -5_1_-5__0_2_  -5_.-5-6__-7__  1_2_3_2_
+    1_.-7  -6__.-7_21-7-6  -5_1_-5__0_2_  -5_.-5-6__-7__  1__.
+    -3_-5_1_  3_.33_2_1_-6_  -5_.-5-5_-3_-5_1_  -7_.-7-7_
+    -5_-7_2_  1_.11_-7_1_2_  3_.33_2_1_-6_  -5_.-6-5_0
+    -5-5_.1  -7_-5_5_4_6_5_4_-7_  1___0_ //] >>
+FCT[Alm - Lied, Jodel - Lied]
+CMT[Zeile 268 rhythmisch korrigiert; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Hahnpfalzlied
+    Es fangt schon das Frauhjahr an,]
+CNR[s' folzt schon der Auerhahn]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Bad Kreuth]
+KEY[D0121  08  C 3/4]
+MEL[1_  2_4_-7_  1_3_1_
+    6_4_6_  5_+135_
+    +2_5_5_  +3_.+13_
+    5_2_5_  1__ //] >>
+FCT[Jaeger - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Bei der Lind'n bin i's gsessn
+    bei der Lind'n sitz i's gern]
+REG[Europa, Mitteleuropa, Deutschland, Oberbayern, Woernsmuehl]
+KEY[D0124  08  G 3/4]
+MEL[-53  3_2_-54  4_3_
+    -53  3_2_-54  4_3_
+    3_  466_56  43+15
+    5+1  7_044_  3__
+    3_  466_56  43+15
+    5+1  7_044_  3__ //] >>
+FCT[Liebes - Lied]
+CMT[Zeilenwiederholung; zweistimmig ( parallele Terzen )]
+
+DVA
+CUT['s Konzellerer Doerfl is scheibnkuglrund
+    ja, da wenn ma auss'n ummigeht, nacha beisst oan koa Hund]
+REG[Europa, Mitteleuropa, Deutschland, Bayer. Wald, Konzell]
+KEY[D0134  08  A 3/4]
+MEL[   -5_  -64432_  13321_  -7223-7_  1_
+    123-5  -64432_  13321_  -722-532  1_
+    123-5  -64432_  13321_  -722-532  1_0_ //] >>
+FCT[Heimat - Lied]
+CMT[zweistimmig (Sextparallelen und Terzen) ; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Z' nachst bin i spat aussiganga
+    und wollt' ma a Vogerl fanga]
+REG[Europa, Mitteleuropa, Deutschland, Niederbayern, Weitmichel]
+KEY[D0136  08  G 3/4]
+MEL[-5_  1_.11_  3_3_2_  1_0_
+    -3_  3_.33_  5_5_4_  3_0_
+    11  6_.666  +1_7_6_  5_.55_  +1_
+    5_3_  4_.45_  7_.65_  3_0_
+    11  6_.666  +1_7_6_  5_.55_  +1_
+    5_3_  4_.45_  7_.65_  3_0_ //] >>
+FCT[Kilt - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Die Brombeerpflueckerin
+    Und wollt das Maderl in der Fruah aufstehn,]
+CNR[wollt ins Braunbirl brokken gehn]
+REG[Europa, Mitteleuropa, Deutschland, Bayer. Wald, Zwiesel]
+KEY[D0139  16  G 6/8]
+MEL[1_  3__3_5_.533  4__4_5__.
+    4__2_5__4_  3__3_3__
+    1_  3__3_5_.53_  4__5_7__
+    77  +2__777__+4_  +3__+1_5__
+    3_  4__5_7_.54_  3__.0__ //] >>
+FCT[Ballade, Verfuehrung]
+CMT[Dreistimmig notiert ( hauptsaechlich in parallelen Terzen )]
+
+DVA
+CUT[Muellerstoechterlein
+    Da drunten in dem tiefen Tale]
+CNR[da steht eine Muehle zum Mahlen]
+REG[Europa, Mitteleuropa, Deutschland, Oberfranken]
+KEY[D0141  08  F 4/4]
+MEL[12  33333543  322_0_
+    23  4_444654  433_0_
+    5_  5_355_35  +1765_0_
+    5  5_+155_35  4_243_
+    5_  5_355_35  +1765_0_
+    5  5_+155_35  4_243_ //] >>
+FCT[Ballade]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Lied der Floesser vom Rotmain
+    Lustig ist das Floesserleben,]
+CNR[wenn wir all beisammen sein]
+REG[Europa, Mitteleuropa, Deutschland, Oberfranken]
+KEY[D0143  16  G 4/8 2/8]
+MEL[     1_1_1_1_  1_-6_-5_-5_  1_-6_-5_-5_
+    1_2_3_3_  2_2_1__
+    1_2_3_3_  2_2_1_
+    -5_  1_1_1_1_  1_-6_-5__  1_-6_-5__
+    1_2_3_3_  2_2_1__
+    1_2_3_3_  2_2_1__  0_
+    12  3_.33_23  4_2_4_2_  0_
+    23  4_.44_34  5_3_5_3_
+    -5__  1_1_1_1_  1_-6_-5__  1_-6_-5__
+    1_2_3_3_  2_2_1__
+    1_2_3_3_  2_2_1__
+    5__  33345__  33345__
+    5_4_4_4_  6_5_5_
+    5_  33345__  33345__
+    5_4_4_4_  3__ //] >>
+FCT[Staende - Lied]
+CMT[Wechselgesang solo - Gruppe; Sequenzen; In der fuenften Zeile
+    rhythmisch korrigiert; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Aber Montag, da ist a Knoedltag,
+    wenns nur all Tag Montag Knoedltag waere]
+REG[Europa, Mitteleuropa, Deutschland, Oberfranken]
+KEY[D0144  08  G FREI]
+MEL[-5_-5_3__1__.-5_-5_-5_3_3_1__.0_
+    -5_  3_3_3_3_3_333_5__4__
+    2_  4_444_444_6_6_5__3__
+    1_  3_333_333_5__4__3__.0_ //] >>
+FCT[Scherz - Lied]
+CMT[zweistimmig notiert (parallele Terzen) ; Inzipit  = entfernte
+    Variante zum Lied]
+
+DVA
+CUT[Auf der letzten Reise litt ich etwas Not
+    fehlt es mir an Speise, kauft ich mir das Brot]
+REG[Europa, Mitteleuropa, Deutschland, Wolga - Kolonie]
+KEY[D0146  16  A 4/4]
+MEL[  -5_.11_1_3__1__  4_3_2_1_2___
+    -5_-6_-7_1_2_3_4__  5_.43_2_1___
+    5_5_6_5_+1__5_3_  6_5_4_3_3_4_2__
+    -5_.11_1_3_3_1_3_  5_5_5_.65__.
+    3_  5_5_6_7_+1_6_5_4_  3_4_2__1___ //] >>
+FCT[Wander - Lied, Handwerksburschen - Lied]
+CMT[Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Bin ich's Wandern muede, sehn ich mich nach Ruh'
+    Glueck auf alle Wege nach der Heimat zu]
+REG[Europa, Mitteleuropa, Deutschland, Wolga - Kolonie]
+KEY[D0146A 16  A 4/4]
+MEL[  -5_.11_1_3__1__  4_3_2_1_2___
+    -5_-6_-7_1_2_3_4__  5_.43_2_1___
+    5_5_6_7_+1_6_5_3_  6_5_4_3_3_4_2__
+    -5_.11_1_3_3_1_03  5_5_5_.65__.
+    3_  5_5_6_7_+1_6_5_4_  3_4_2__1___ //] >>
+FCT[Wander - Lied, Handwerksburschen - Lied]
+CMT[Strophenvariante zu D00146; Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Die verwundete Dame
+    Es wollt' ein Mueller frueh aufstehn,]
+CNR[Er wollt' im gruenen Wald spazieren gehn.]
+REG[Europa, Mitteleuropa, Deutschland, Wolga - Kolonie]
+KEY[D0147  08  G 3/4 2/4]
+MEL[ 134  5_5_45  2_0
+    1-71  234212  3454  3_23  1_0 //] >>
+FCT[Ballade]
+
+DVA
+CUT[Der goldene Rosenkranz
+    versetzt mit Perlen ganz]
+REG[Europa, Mitteleuropa, Deutschland, Wolga - Kolonie]
+KEY[D0148  08 Eb 3/4]
+MEL[1_  3_5_3_  2_1_2_  1__.  ^_0_
+    23  4_5_4_  3_4_5_  2__.  ^_0_
+    2_  5_6_5_  1__23  4_5_3_  2__
+    46  5_4_3_  2_3_2_  1__.  ^_0_ //] >>
+FCT[geistliches Lied, Marien - Lied]
+CMT[Inzipit = entfernte Varianta zum Lied ??]
+
+DVA
+CUT[St. Martinslied
+    Sente Maertes Voegelken]
+CNR[Haet son rot rot Koegelken]
+REG[Europa, Mitteleuropa, Deutschland, Niederfranken]
+KEY[D0152  08  C 4/4]
+MEL[5_5_6_6_  5_5_3__
+    5_5_6_6_  5_5_3_
+    6_  5__3_6_  5__3_3_  555_3__
+    5_5_6_6_  5_5_3__
+    5__6_6_  5__3__
+    5_5_6_6_  5__3__
+    5_5_5_33  6_6_6__
+    5_5_5_6_  4_4_4__
+    5__3__  5__3__
+    5_5_6_6_  5__3__
+    5_5_5_3_  6_6_6__
+    44444_5_  3_3_3__ //] >>
+FCT[Ansinge - Lied]
+CMT[haeufig wiederholte Taktformeln; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Es war einmal ein kleiner Mann,
+    re - ri - rosa]
+REG[Europa, Mitteleuropa, Deutschland, Provinz Sachsen]
+KEY[D0156  08  G 2/4]
+MEL[-5  1111  1-5-5_
+    1_2_  3_1
+    1  3333  311_
+    222-7  1_. //] >>
+FCT[Ehestands - Lied]
+CMT[Inzipit = entfernte Variante ??]
+
+DVA
+CUT[Ruschelputthennchen,
+    was ruschelt in dem Stroh ?]
+REG[Europa, Mitteleuropa, Deutschland, Provinz Sachsen]
+KEY[D0158  16  C 2/4]
+MEL[     3_.33__  2_.12_3_  1_.11_1_  -5__.
+    -5_  3__3_3_  2__3_2_  1_1_1_1_  -5__.
+    -5_  1__3_5_  5_.55_6_  6__4_3_  2__.
+    2_  3_5_1__  2_4_-5_-5_  1__1__  1___ //] >>
+FCT[Kinder - Lied]
+CMT[erste Zeile rhythmisch korrigert
+    Inzipit = Variante zum Lied, Variante zu Lied D0159 ?]
+
+DVA
+CUT[Suse, Buebiken, suse,
+    wo wohnt denn Peter Kruse ?]
+REG[Europa, Mitteleuropa, Deutschland, Provinz Sachsen]
+KEY[D0159  16  F 2/4]
+MEL[     3_3_222_  1__-5_
+    -5_  3_3_2_2_  1__-5_0_
+    3_3_232_  1__-5_0_
+    3_3_3_5_  5_4_4__
+    3_3_3_5_  554_4__
+    3_3_2_2_  1__-5_0_
+    3_3_2_2_  1__-5_0_ //] >>
+FCT[Kinder - Lied]
+CMT[Grundton ?? ; Inzipit = Variante zum Lied; Variante zu Lied D0158 ?]
+
+DVA
+CUT[Wie schoen ist das laendliche Leben,
+    mein Haeuschen steht auf gruener Flur]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0161  16 Bb 6/8]
+MEL[-5_  -5_-6_-7_1_2_3_  4__.3__
+    3_  3_.22_4_-7_-7_  1__.0__
+    -5_  -5_-6_-7_1_2_3_  4__.3__
+    3_  3_.22_4_-7_-7_  1__.0__
+    3_  2_3_2_2_3_2_  2__5_5_4#_
+    3_  2_3_2_1_-7-6-5_  -7__2_4_3_
+    2_  1_.11_1_2_3_  4__.3__
+    3_  3_.22_4_-7_-7_  1__.0__ //] >>
+FCT[Bauern - Lied]
+CMT[moduliertin die Dominanttonart; Pause in der zweiten Zeile rhythmisch
+    korrigiert; Inzipit = entfernte Variante zum Lied]
+
+DVA
+CUT[Der gepruegelte Ehemann
+    Dei Fra dei wollt zum Tanzplatz geh,]
+CNR[he, Kunrad !]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0163  16  G 2/4]
+MEL[-5_  1_2_3_4_  5_5_5__
+    6__+1_6_  5__0_
+    5_  5_4_4_4_  4_3_3__
+    2_.34_2_  3_4_5_
+    5_  5_4_4_4_  4_3_3__
+    2_.34_-7_  1__0_ //] >>
+FCT[Ehestands - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[A Dirndel geht um Holz in Wald,
+    recht zeitig in der Frueeh]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0164  08  G 2/4 3/4]
+MEL[-5  3321  442_.
+    -5  4432  5_0
+    3  5543  662_0
+    5  7_.654  3_0 //] >>
+FCT[Jaeger - Lied, Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[A Dirndel geht um Holz in Wald,
+    recht zeitig in der Frueeh]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0164A 08  G 6/8]
+MEL[-5  3_32_1  4_42_
+    -5  4_43_2  5_0_.
+    3  5_54_3  6_62_
+    5  7_65_4  3_0_. //] >>
+FCT[Jaeger - Lied, Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Fahr mir nit ueber mein Aeckerchen,
+    fahr mir nit ueber mein Wies]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0165  08  G 3/4]
+MEL[5_.55_  6_5_4_  3_3_3_
+    5_.55_  6_5_4_  3__0_
+    3_.23_  4_3_2_  5_.55_
+    3_.33_  4_3_2_  1__0_ //] >>
+FCT[Tanz - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Schoenstes Schaetzchen ich steh draussen
+    vor dein' Fensterlein]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0168  08 Eb 4/4]
+MEL[    1_-5_1_3_  2_2_1_-5_
+    3_.23_5_  5_0_
+    4_2_  5_4_3365  5_3_0_
+    5_  5_654_5_  3__0__ //] >>
+FCT[Tage - Lied, Kilt - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[In einer glueckseligen Stund'
+    schlug tief in mein Herz eine Wund']
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0169  16  D 6/8]
+MEL[-5_  3_.21_1_2_3_  2__0_0__
+    5_  7_.65_4_2_5_  3__0_0__
+    1_  1_3_5_+1_7_.6  6_5_0_0__
+    5_  7_.65_442_5_  3__0_0__
+    1_  1_3_5_+1_7_.6  6_5_0_0__
+    5_  7_.65_442_5_  3__0_0__ //] >>
+FCT[Liebes - Lied]
+CMT[Grundton ? ; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Hoer an, mein liebes Kind, was ich muss leiden,
+    was mich von Herzen freut, das muss ich meiden]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0171  08  D 3/4]
+MEL[13  5_+1_55  3__0_
+    6_5_.2  4_3_
+    13  5_+1_55  3__0_
+    6_5_.2  4_3_
+    22  2_2_.2  23465_
+    5_6_+16  655_
+    13  5_+1_55  543_0_
+    6_5_.2  4_3_
+    22  2_2_.2  23465_
+    5_6_+16  655_
+    13  5_+1_55  543_0_
+    6_5_.2  4_3_ //] >>
+FCT[Liebes - Lied]
+CMT[Rhythmische Korrekturen (Pausen weggelassen) ; Inzipit = Variante]
+
+DVA
+CUT[Die erloeste Sklavin
+    Ich fuhr einstmal auf stiller See]
+CNR[und da wollt' mein Schiffchen untergehn]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0172  08  F 4/4]
+MEL[(132)  1_.65_.4  4_3_0_
+    34  5_.36543  322_2_
+    13  5_5_5+1_6  655_5_4
+    3  4_4_4654  3_5_5_
+    13  5_5_5+1_6  655_5_4
+    3  4_4_4654  3_5_5_ //] >>
+FCT[Ballade, Liebe mit gluecklichem Ausgang]
+CMT[Grundton ??; Auftakt rhythmisch korrigiert; Verzierungen;
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[Mir bluehet kein Fruehling, mit lachet keine Sonne,
+    mir duftet kein Bluemchen, fuer mich ist alles dahin.]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0173  08  D 4/4]
+MEL[5_  3__4321  -724_0_
+    5_  4_.45_.2  433_0_
+    1_  166__5_  54#4__
+    4_  3_.5542-7  1__0_ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = entfernte Variante zum Lied ?]
+
+DVA
+CUT[Jetzt fahr'n mer uebern See, vidrom,
+    jetzt fahr'n mer uebern See.]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0174  08  F 2/4]
+MEL[-5  3334  5553  4445  3_0
+    -5  3334  5553  4445  0_0
+    5  6543  4_2_  4466  53_
+    5  6543  4_25  5554  3_. //] >>
+FCT[Bauern - Lied]
+CMT[Grundton ??; Inzipit = entfernte Variante zum Lied]
+
+DVA
+CUT[De Kerw
+    Was haetten unsre Bauern denn,]
+CNR[wenn die liebe Kerw nicht waer]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0175  16  G 2/4 3/4]
+MEL[-5_  1_.11_1_  1_3_1__0_
+    33  2_.1-7_-6_  -5__0_
+    55  5_5_4_2_  1__0_
+    3_  5_5_4_2_  5_5_3_
+    1_  2_2_3_.2  1_3_5_
+    3_  5_5_4_2_  5_5_3_
+    1_  2_2_3_.2  1__0_ //] >>
+FCT[Brauchtums - Lied]
+
+DVA
+CUT[Gestern Abend in der stillen Ruh
+    hoert ich im Walde einer Amsel zu]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0176  16  F 2/4 3/4]
+MEL[ 1_2_  3__3__  3_4_5_6_  5__4_
+    3_2_3_  4_.44_6_5_4_  4__3__
+    1_2_  3__3__  3_4_5_6_5__  4_
+    3_2_3_  4_.44_6_5_4_  4__3__
+    5556  5__.4_4__  0_4_4_6_  6_.55__
+    5556  5__.4_4__  0_4_4_6_  6_.55__
+    1_2_  3__3__  3_4_5_6_  5_5_4_
+    2_5_.4  4__3__0__ //] >>
+FCT[Liebes - Lied]
+CMT[dritte und fuenfte Zeile rhythmisch korrigiert; Inzipit = Variante]
+
+DVA
+CUT[Geh mer net iwer mei Aeckerche, Aeckerche,
+    geh mer net iwer mei Wies]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0177  08  F 3/4]
+MEL[1_.11_  3_2_1_  5_.55_  5_.55_
+    1_.11_  3_2_1_  5__0_
+    6_.66_  6_5_4_  3_.55_  3_.55_
+    7_6_5_  4_3_2_  5__0_
+    6_.66_  6_5_4_  3_.55_  3_.55_
+    7_6_5_  4_3_2_  1__0_ //] >>
+FCT[Scherz - Lied]
+CMT[Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Maria, die Mutter, wollt' wandern gehn,
+    sie wollt nach Bethlehem gehn]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0178  08  G 2/4]
+MEL[-3  -5-5_-3  -6-6-6-7  -5-6-5-4  -3_0
+    -4  -5_.-3  -6_-6-7  -5_-4_  -3__
+    -5113  2_2_  3_43  2__
+    3_.2  1_13  2_-7_  1_0 //] >>
+FCT[Legenden - Lied]
+
+DVA
+CUT[Ach schoenster Schatz, mein Augentrost,
+    hast meiner ganz vergessen ?]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0179  16  G 3/4]
+MEL[    -5_  -5_-6-71__3__  2_2_1_
+    2_3_4_  5_.65_3_4_5_  3__0__0_
+    -5_  1_3_5__6_5_  4_3_5__.
+    6_  3_2_3_5_4_3_  2_1_2_
+    -5_1_3_  5_6_5__4_5_  3__0__0_ //] >>
+FCT[Liebes - Lied, Liebeslust]
+CMT[Inzipit = Variante zum Lied; Verzierung]
+
+DVA
+CUT[Ach schoenster Schatz, mein Augentrost,
+    kann deiner nicht vergessen !]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0179A 08  G 3/4]
+MEL[-512  3_3_22  1_0
+    234  565345  3_50
+    34  5_6543  4_0
+    532  354321  2_0
+    -513  565345  3_0 //] >>
+FCT[Liebes - Lied, Liebeslust]
+CMT[Inzipit = Variante zum Lied; Variante zu DVA0179]
+
+DVA
+CUT[Auf, auf ihr Jaeger all
+    und folget eurem Fuersten nach]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0181  04  C 4/4]
+MEL[-5  1122  3_4_  5342  1-6-5
+    -5  1122  3_4_  5342  1_0
+    2  22-72  22-7-5  3_.-5  3_.
+    -5  4323  4321  -7-532  1_0
+    2  22-72  22-7-5  3_.-5  3_.
+    -5  4323  4321  -7-532  1_0 //] >>
+FCT[Jaeger - Lied]
+CMT[Grundton in der zweigestrichenen Oktave; Inzipit = Transposition]
+
+DVA
+CUT[Im Wald, im Wald, im Wald
+    da ist mein Aufenthalt]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0182  16  D 6/8]
+MEL[ 5_  5__5_5__+3_  +1__.^__
+    5_  5__5_6__5_  4__.^__
+    +3_  +2__+3_+2__+3_  +2__.^__
+    +1_  7__6_5__4_  3__.^__
+    55  +3_+2_+1_+1_7_6_  5_5_5_5_5_
+    +1_  7_7_7_7_7_+2_  +1_+1_+1_+1_+1_
+    55  +3_+2_+1_+1_7_6_  5_5_5_5_5_
+    +1+1  7_7_5_+3_+3_+2_  1__.^__ //] >>
+FCT[Jaeger - Lied]
+CMT[Inzipit = Variante zum Lied; Sequenzen]
+
+DVA
+CUT[Die Mutter ist das groesste Glueck auf Erden,
+    was je ein Menschenherz besitzen kann.]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Gleiwitz]
+KEY[D0192  16  G 4/4]
+MEL[   5_5_4_  3__.5_+1_7_6_3_  5__4__0_
+    4_4_3_  2__.5_5_5_6_5_  3___0_
+    +1_+1_+1_  6__.7_+2_.+17_6_  6__5__0_
+    +1_+1_+3_  2__5__7_.65_4_  3___0_ //] >>
+FCT[Mutter - Lied]
+CMT[Sonderzeichen in der Notation; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Jetzt muessen wir marschieren,
+    ich und mein Kamerad]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Berlin]
+KEY[D0194  16  A 4/4]
+MEL[-5__  1__1__2__4__  3___2___
+    3__2_1_1__-7__  1__0__0__
+    -5__  1__1__2__4__  3___2___
+    3__2_1_1__-7__  1__0__0__
+    3_4_  5__5__5_.54_3_  4__0__0__
+    2_3_  4__4__4_.43_2_  3__0__0__
+    -5__  1__1__2__4__  3___2___
+    3__2_1_1__-7__  1__0__0__ //] >>
+FCT[Soldaten - Lied]
+CMT[Inzipit = Transposition zum Lied, Sequenzen]
+
+DVA
+CUT[Es droehnet der Marsch der Kolonne,
+    der Tambour schlaegt das Fell]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Berlin]
+KEY[D0195  16  E 4/4]
+MEL[-5__  1__1_.23b__2_.1  2__2___
+    5__  5__1__4__.3b_  2___0__
+    -5__  1__1_.23b__2_.1  2__2___
+    5__  5__4_3b_4__3b_2_  3b___0__
+    5__  5__3b_.3b3b__4_5_  4__-7b_.-7b-7b__
+    1_2_  3b__1__1__2_3b_  2__-5__-5__
+    1_.2  3b__1__2__7__  1___0__
+    5__  5__3b_.3b3b__4_5_  4__-7b_.-7b-7b__
+    1_2_  3b__1__1__2_3b_  2__-5__-5__
+    1_.2  3b__1__2__7__  1___0__ //] >>
+FCT[Soldaten - Lied]
+CMT[Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Horch auf, Kamerad, die Trommel ruft,
+    und die Fahne weht dort im Winde]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Berlin]
+KEY[D0196  08  G 4/4]
+MEL[-5_  1_111_3_  322-71_11  4_444_4_  3_1_0_
+    -5_  1_111_3_  322-71_11  4_444_4_  3_1_0_
+    11  6_6_6_66  6_545_.5  4_444_56  5_3_0_
+    11  6_6_6_66  6_545_.5  4_444_56  5_3_0_
+    -5_  1_111_3_  322-71_11  4_446_4_  3_1_0_
+    -5_  1_111_3_  322-71_11  4_444_4_  3_1_0_ //] >>
+FCT[nationalsozialistisches Lied, Soldaten - Lied]
+
+DVA
+CUT[Siebenbuergen, Land des Segens
+    Land der Fuelle und der Kraft]
+REG[Europa, Suedosteuropa, Rumaenien, Siebenbuergen]
+KEY[D0197  16  G 3/4]
+MEL[3_1_  5__5__2_3_  1__-5__
+    1_2_  3__.432_1_  2___
+    -5_-5_  1__.3_5_6_  5_4_3__
+    5_6_  4__.2_5_4_  3_4_5__
+    1_2_  3__3__3_3_  3___
+    1234  5__5__2_3_  1___ //] >>
+FCT[Heimat - Lied]
+
+DVA
+CUT[Haerzke, menj Haerzken, do faer iwerm Rech,
+    woraem mess ech aenjden vun dir ewech ?]
+REG[Europa, Suedosteuropa, Rumaenien, Siebenbuergen]
+KEY[D0198  08  G 3/4]
+MEL[     5_3_.4  3_2_0
+    1  3_4_6_  5__
+    7+1  +2_+1_.6  +1_5__
+    4_2_4_  3__
+    7+1  +2_+1_.6  +1_5__
+    +4_+3_+2_  +1__. //] >>
+FCT[Liebes - Lied]
+
+DVA
+CUT[Der Honef di wor gor klin, gor klin,
+    de Kegder dae woren gor schin, gor schin]
+REG[Europa, Suedosteuropa, Rumaenien, Siebenbuergen]
+KEY[D0200  16  D 6/8]
+MEL[5_  +1_7_6_5__3_  2__3_1__
+    5_  +1_7_6_5__3_  2__3_1__
+    1_  4_.56_5__1_  4__6_5__
+    5_  +1_7_6_5_6_5_  4_3_2_1_0_ //] >>
+FCT[Scherz - Lied]
+CMT[Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Der maechtigste Koenig im Luftrevier
+    ist des Sturmes gewaltiger Aar]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hof]
+KEY[D0203  16  F 4/4]
+MEL[   -5__  1__1_.11__1_2_  3__3_.21__
+    3_.3  2__-5_.52__3_.2  1___0__
+    -5__  1__1_.11__1_2_  3__3_.21__
+    3__  2__-5_.-52__3_2_  1___0__
+    3_4_  5__3__3__1_3_  5__3__3__
+    1_3_  5__3_1_5__3_1_  5___0__
+    -5_.-5  3__.-7_2__1_-6_  -5___0__
+    -5__  -6__2_1_-7__3_2_  1___0_
+    1_1_3_  5__^__.4_3_2_  1__^__.
+    3_2_1_  2__^__.4_3_2_  3__6__5__
+    -5__  3__.-7_2__1_-6_  -5___0__
+    -5__  -6__2_1_-7__3_2_  1___. //] >>
+FCT[Wandervogel - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[O Himmel ich verspuer' ,
+    dass ich nicht mehr kann leben]
+REG[Europa, Mitteleuropa, Deutschland, Oberbayern]
+KEY[D0215  08  G 4/4]
+MEL[54  3_.23_4_  3__0_
+    5_  +1_.55_43  3_2_0_
+    54  3_.23_4_  3__0_
+    5_  +1_.55_43  3_2_0_
+    5_  6_5_6_7_  +1__0_
+    5_  6_543_2_  1__0_ //] >>
+FCT[Soldaten - Lied]
+CMT[zweistimmig notiert ( vorwiegend in Terzparallelen )
+    Inzipit = Variante zum Lied, Variante zu D0077 ?]
+
+DVA
+CUT[Dri lederne Struempf
+    un' zwei d'rzue git fuenf]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Oberstdorf]
+KEY[D0216  16  G 2/4]
+MEL[     3__334_  5__0_
+    3_  4_.34_5_  3__0_
+    -5_  3_.33_4_  5_5_5_
+    3_  4_3_4_5_  3__0_
+    -5_  3_.33_4_  5_5_5_
+    3_  4_3_4_5_  3__0__ //] >>
+FCT[Tanz - Lied, Kinderlied]
+CMT[kleinere Varianten zur Strophe notiert; Tonart ??]
+
+DVA
+CUT[Medche, waelt te'n Far nien?
+    Naei Motter naei!]
+REG[Europa, Mitteleuropa, Deutschland, Siebenbuergen]
+KEY[D0219  16  F 2/4]
+MEL[    1_-7_1_2_  3__4__
+    5__5_.-7  1__0_
+    1_  1_-7_1_2_  3_3_3__
+    1_-7_1_2_  3_3_3__
+    5__5_.-7  1__0__ //] >>
+FCT[Ehestands - Lied]
+CMT[Variante in D0219A notiert, Inzipit = Variante zum Lied]
+
+DVA
+CUT[Medsche waelt ta de Kanter nin ?
+    Ne, Motter, ne.]
+REG[Europa, Mitteleuropa, Deutschland, Siebenbuergen]
+KEY[D0219A 16  F 2/4]
+MEL[    1_1_1_22  3_2_1__
+    2__-5_-5_  1__0_
+    5_  5_5_4#_5_  3_3_3__
+    3_3_2_3_  1_1_1__
+    2__-5_-5_  1__0__ //] >>
+FCT[Ehestands - Lied]
+CMT[Variante zu D0219]
+
+DVA
+CUT[Et sass e kli waelt Vijeltchen
+    af enem graenen Naestchen]
+REG[Europa, Mitteleuropa, Deutschland, Siebenbuergen]
+KEY[D0220  16  G 3/4 2/4]
+MEL[-5_  1_.11__.2_  3b_.21__0_
+    1_  5_5_-5_-5_  1__1__0_
+    5_  5_.43b__.5_  4_.3b2__0_
+    2_  1_.13b__.-7_  1__1__0_ //] >>
+FCT[Liebes - Ballade]
+CMT[Variante zum folgenden D0220A, Inzipit = Variante zum Lied]
+
+DVA
+CUT[Et sass e kli waeld Voegelain
+    af ener graener Zwaige]
+REG[Europa, Mitteleuropa, Deutschland, Siebenbuergen]
+KEY[D0220A 08  G 2/4]
+MEL[-5  1112  3b3b3b
+    3b  43b21  2_2
+    1  3b3b3b4  555
+    1  123b-7  1_0 //] >>
+FCT[Liebes - Ballade]
+CMT[Variante zu D0220]
+
+DVA
+CUT[Ick heff mol en Hamborger Veermaster sehn,
+    to my hoodah, to my hoodah]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein, Kiel -
+    Holtenau]
+KEY[D0224  16  C 4/4]
+MEL[ 5__  1__3_.35__+1_.+1  6__5_.53__
+    1_.2  3__2__0__1_.2  3__2__0__
+    5__  1__3_.35__+1_.+1  6__5_5_3__
+    1_.2  3__2__3__2__  1___.0__
+    1___3__5__  +1___.7__  6__.7_+1__.6_  5___.
+    +1_+1_  6__6_.66__.6_  6__5__3__1_2_  3__.5_5__3__  2__1__0___
+    1___3__5__  +1___.7__  6__.7_+1__.6_  5___.
+    +1_+1_  6__6_.66__.6_  6__5__3__1_2_  3__.5_5__3__  2__1__0__ //] >>
+FCT[Staende - Lied, Seemannslied, Shanty]
+CMT[Refrain zweistimmig notiert; Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Magelhan (Rolling home)
+    Dor fohr von Hamburg mol so'n ohlen Kassen]
+CNR[mit Namen heet de Magelhan]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein, Kiel -
+    Holtenau]
+KEY[D0225  16 Bb 3/4]
+MEL[-5_-3_-4_  -5_.-5-5_-5_-4#_-5_  -6_-5_^_
+    -5_-3_-5_  1__3__2_1_  -6__.
+    -6_-7_1_  2__.1_-7_-4_  -6_-5_^_
+    -5_-5_1_  -7__.-5_-6_-7_  1___
+    -3_.-4  -5___-3_.-5  1___
+    -7_.1  2__.1_-7_.-6  -5___
+    -7_.1  2__.1_-7_.-4  -6_-5_^_0_
+    -5_1_  -7__.-5_-6_.-7  1__. //] >>
+FCT[Staende - Lied, Seemannslied]
+CMT[moduliert in die Dominanttonart; mehrstimmig notiert
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[So manchet leewe, lange Johr,
+    hewwt wina See to fohrn]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein, Kiel -
+    Holtenau]
+KEY[D0226  04  C 3/4]
+MEL[ 5  3_4  5_6  5_4#  4_5  +3_+2  6_7  +1_.  ^0
+    5  3_4  5_6  7_+1  7_7  7_4#  6_5  3_.  ^0
+    3  4_5  6_+4  +4_+3  +3_+3  +3_7  +2_+1  6_.  ^0
+    +1  +2_+1  7_6  6_5  +1_5  5_4  7_6  5_.  ^0
+    +3  +3_+2  +3_+4  +4_+3  +1_5  +3_5  +2_5  +1_.  ^0 //] >>
+FCT[Staende - Lied, Seemannslied]
+CMT[moduliert in die Dominanttonart ?; mehrstimmig notiert
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[Gefangen in maurischer Wueste,
+    lag ein Krieger mit schwermuetigem Blick]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+KEY[D0228  16 Bb 4/4]
+MEL[ -5__  -5__-3_-4_-5__1_2_  3___3__
+    4_3_  3__2_2_2__4_3_  1___.
+    -5_-5_  1__1_1_2__2_2_  3__3__0__
+    1_3_  5__.5_5__5_4_  3___.
+    4_.3  3_2_2__0_2_4_3_  2_1_1__.
+    1_2_1_  -7__.2_2_2_4_4_  3___0_
+    3_3_3_  -6__.3_3__.2_  2__1__.
+    -5_1_2_  3__.3_3_3_4_2_  5___0_
+    5_4_3_  3_2_3_2_1_1_3_.2  2___0__ //] >>
+FCT[Soldaten - Lied]
+CMT[rhythmische Korrekturen in der ersten und vierten Zeile
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[La Paloma
+    Mich rief es an Bord,]
+CNR[es wehte ein frischer Wind]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+KEY[D0229  16  C 2/4]
+MEL[     5_  5___  ^3_45_6_  7+1_67_5_  4___  ^__0_
+    5_  +2___  ^_+3_+1+27_  +17_65_4_  3___  ^__0_
+    5_  5___  ^3_45_6_  7+1_67_5_  4___  ^__0_
+    5_  +2___  ^+3_+1+2_7_  +17_65_4_  3___
+    +1+1_+1+1_7_  +2+2_+17_6_  6_5__.  ^___
+    77_77_6_  65_55_6_  543__.  ^___
+    +1+1_+1+1_7_  +2+2_+17_6_  6_5__.  ^___
+    77_77_6_  65_55_6_  543__.  ^_
+    5556_4#  5___  0_5555_6  7__
+    +2__  ^+3_+1+27_+1  67_+1+3_.+2  23_46_.5  3___  0_
+    5556_4#  5___  0_5555_6  7__
+    +2__  ^+4_+3+2+3_+1  +27_+1+3_.+2  23_46_.5  +1__. //] >>
+FCT[Staende - Lied, Seemannslied]
+CMT[moduliert in die Dominanttonart; mit Klavierbegleitung;
+    rhythmische Korrekturen in der zehnten Zeile und im Schlusstakt
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[Ich will dir mein Schicksal erzaehlen,
+    wie mir's in der Fremde erging]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+KEY[D0230  08  C 4/4]
+MEL[   5_  1_356_54#  6_5_0_
+    5_  1_356_5+1  7__0_
+    55  3_5+1+3_+2+1  +1_6_0_
+    +2+2  +1_5+17_67  +1__0_
+    55  3_5+1+3_+2+1  +1+4+4_0_
+    +2+2  +1_5+17_67  +1__0_ //] >>
+FCT[Staende - Lied, Dirne]
+CMT[moduliert in die Dominanttonart; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Was schleicht dort im naechtlichen Walde
+    so einsam wildernd umher]
+REG[Europa, Mitteleuropa, Deutschland, Hohegeiss  Harz]
+KEY[D0233  16  C 6/8]
+MEL[5_  5_5_5_6_6_6_  5_5__^__
+    5_  +1__+1_+2_+2_+1_  7__.^__
+    5_  +2__+3_+3_.+4+1_  7_7__^__
+    6_  5__5_6_5_4_  3__.^__
+    +1_  +2_+1_6_+2_+1_6_  6_5__^__
+    +1_  7__5_+3_+3_+2_  +1__.^__ //] >>
+FCT[Jaeger - Lied, Wilderer]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[In dem schoenen Monat Mai,
+    trulala lia trialei do]
+REG[Europa, Mitteleuropa, Deutschland, Hohegeiss  Harz]
+KEY[D0234  16  G 2/4]
+MEL[1_3_  6_3_5_2_  4__7_5_  +4_+3+2+1_33  5__
+    1_3_  6_3_5_2_  4__7_5_  +4_+3+2+1__  5__+3__
+    +1_3_+133+1  722_4_+2_  7_5_5+4+3+2  +133_5__
+    +1_3_+133+1  722_2_4_  7_5_5+4+3+2  +1__ //] >>
+FCT[Staende - Lied, Koehler]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Johannistagslied
+    Ich bin ein lustiger Weidemann]
+CNR[und such mir ein Revier]
+REG[Europa, Mitteleuropa, Deutschland, Harz, St. Andreasberg]
+KEY[D0235  08  G 6/8]
+MEL[-5  1_1123  3222_5  3_3212  1_.0_
+    -5  1_1123  3222_5  3_3212  1_.0_
+    3  2_22_2  234#5_
+    3  2_22_2  234#5_.  x_00_
+    -5  1_33_5  5_.3_5  6_54_-7  2_.1_
+    -5  1_33_5  5_.3_5  6_54_-7  2_.1_ //] >>
+FCT[Ansinge - Lied]
+CMT[moduliert in die Dominanttonart; Sonderzeichen in der Notation
+    (Glissandi) ; metrisch freie Zeile 262 durch "laut gerufenen" Ton
+    mit Fermate; Inzipit = Variante zum Lied
+    Keine Variante zu den beiden folgenden Liedern !! (DVA-Signatur 235c)]
+
+DVA
+CUT[Gruenes Gras, gruenes Gras unter meinen Fuessen,
+    hab' verloren meinen Schatz, werd' ihn suchen mussen.]
+REG[Europa, Mitteleuropa, Deutschland, Harz, St. Andreasberg]
+KEY[D0235A 16  D 2/4 3/4]
+MEL[    5_4_3__  5_4_3__  5_5_6_5_  5__4__
+    4_4_2_3_  4_4_2__  4_4_5_.4  4__3__
+    5_4_3__  5_4_3__  5_5_6_5_  5__4__
+    4_4_2_3_  4_4_2__  4_4_5_.4  4__3__
+    3_4_5__  3_4_5__.5_  +1_6_5__.
+    5_  6_.54__.2_  6_.53__.
+    5_  5__.4_2_4_  6__.5_3_
+    1_  1_2_3_4_  5__5__  6_.66_6_  5__.
+    5_  4_.44_4_  3__3__  5_.55_5_  1__0__ //] >>
+FCT[Kinder - Lied, Tanzlied]
+CMT[in der dritten Zeile rhythmisch korrigiert; Inzipit = Variante; Keine
+    Variante zum folgenden und zum vorigen Lied !! (DVA - Signatur 235 d)]
+
+DVA
+CUT[Wo treff' ich meinen Schaefer an,
+    wo werd' ich ihn wohl finden]
+REG[Europa, Mitteleuropa, Deutschland, Harz, St. Andreasberg]
+KEY[D0235B 16  G 3/4]
+MEL[-5_  -5_1_1__3__  3_.22__.
+    3_  4_6_5__3__  2__1__0_
+    -5_  -5_1_1__3__  3_.22__.
+    3_  4_6_5__3__  2__1__0__
+    5_.33__2__  5_.44__3__
+    5_.33__2__  5_.44__3_
+    1_  1_1_1__3__  3__2__0_
+    3_  4_6_5__3__  2__1__0_ //] >>
+FCT[Tanz - Lied]
+CMT[Keine Variante zu den beiden vorigen Liedern !! (DVA-Signatur 235e)]
+
+DVA
+CUT[In den schoenen Monat Mai, trueholda, duholda,
+    zieht der Koehler in den Hai, trueholdahudue,]
+REG[Europa, Mitteleuropa, Deutschland, Harz]
+KEY[D0236  16  D 2/4]
+MEL[        1_1_3_3_  5_5_3__
+    7_5_5__  +1_3_5__
+    1_1_3_3_  5_5_3__
+    7_5_5+3_.  +1_.^
+    +3_.+2  +13_.(+1_3_+1_)  72_.4+2_.
+    72_.(7_2_7_)  +13_.5+3_.  +1__0__ //] >>
+FCT[Staende - Lied, Koehler]
+CMT[rhythmische Korrektur in der zweiten Zeile;
+    Inzipit = Variante zum Lied; Variante zu D0234 ? (DVA-Signatur 236a)]
+
+DVA
+CUT[Schon wieder toent vom Schachte her
+    des Gloeckleins leises Schallen]
+REG[Europa, Mitteleuropa, Deutschland, Oberschlesien]
+KEY[D0238  08  D 6/8]
+MEL[ 5  5_33_3  3_11_1  4_6+176  7_.50
+    5  5_46_4  4_35_5  5_5567  +2_+1_0
+    +1  +2_75_4  3_5+10
+    +1  +2_75_4  3_5+10
+    +1  6_6+176  5_.+10
+    +1  7_.6_7  +1_36_
+    5  5_.+4_7  +1_.+10 //] >>
+FCT[Staende - Lied, Bergmann]
+CMT[Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Wo e kleins Huettle steht, ist e kleins Guetle
+    Wo e kleins Huettle steht, ist e kleins Gut]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+KEY[D0241  16  F 3/8]
+MEL[-5_1_1_  -7_.-6-5_  4_2_-7_  2_1_0_
+    -5_1_1_  -7_.-6-5_  4_2_-7_  1__.
+    2_.32_  2_.32_  2_.32_  2_.32_
+    1_-7_-6_  -5_4__  5_5_54  3__0_
+    1_-7_-6_  -5_4__  5_5_54  3__0_ //] >>
+FCT[Liebes - Lied, Liebeslust]
+CMT[Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Uebers Bacherl bin i gschprunga,
+    uebers Wieserl bin i g'rennt]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[D0242  08  D 3/4]
+MEL[  34  5_5_34  5_5_
+    +3+1  7_7_64  3_0_
+    23  466_54  35+1_
+    5+1  7_7764  3__
+    23  466_54  35+1_
+    5+1  7_7764  3__
+    +3+1  +155_35  255_
+    +47  755_45  355_
+    +3+1  +155_35  255_
+    +47  755567  +1__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Transposition]
+
+DVA
+CUT[Ach Mutter, liebe Mutter,
+    mein Kopf thut mir so weh]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Koeln]
+KEY[D0262  16  G 2/4]
+MEL[-5_  3_.33_.2  2__1_
+    -5_  4_4_4353  2__0_
+    -5_  5_.65_4_  3__54
+    32  1_1_3212  1__
+    2__  3_3_542_  1__0_ //] >>
+FCT[Liebes - Ballade]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Was soll ich in der Fremde tun,
+    denn es ist ja hier so wunderschoen]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[D0264  16  F 4/4]
+MEL[ -5__  1__.-7_1__2__  3__.2_1__
+    3_3_  2__5__7__.6_  5___0__
+    3_3_  2__.3_4__6__  6__5__3__
+    5_5_  5__4__2__6_.6  6__5__3__
+    3_3_  2__.3_4__6__  6__5__3__
+    5_+1_  7__.6_5__4__  3___0__ //] >>
+FCT[Heimat - Lied]
+CMT[Inzipit = Transposition zum Lied]
+
+DVA
+CUT[Was wollen wir singen und heben an
+    Was von dem himmlischen Ackersmann]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[D0265  08 Ab 3/4]
+MEL[-5_  1__2_  3__4_  3__2_  1__
+    3_  2_3_2_  -7_.-7-7_  2_1_-6_  -7__
+    -5_  -6_-5_-2_  -5__
+    -5_  1__2_  3__4_  3__2_  1__ //] >>
+FCT[geistliches Lied]
+CMT[Inzipit = Variante zum Lied (?); Variante zu D0018 ??]
+
+DVA
+CUT[Lied der Siegerlaender Hammerschmiede
+    Es ist kein Doerfchen so kleine]
+CNR[ein Hammerschmied muss drinnen seine]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[D0266  08  G 6/8 4/4]
+MEL[-5  1_11-7-6  -5_.-3_
+    -5  1111-7-6  -5_.-3_0
+    3_3_333_  33655_4_
+    222_2222  22655_4_  0___
+    1_111_-5_  5_553_0_
+    333333  3235_4
+    222222  2123_.
+    333333  3235_4
+    222222  2121_ //] >>
+FCT[Trink - Lied, Zech - Lied]
+CMT[rhythmische Korrekturen in Zeile 261, 262 und 263 (Pause ergaenzt) ;
+    263 und 265; Tonrepetitionen ; Pause - Takt in Zeile 262 fuer
+    szenisches Spiel vorgesehen; Refrain (ab Zeile 264) mehrstimmig
+    Inzipit = Variante zum Lied (?)]
+
+DVA
+CUT[Nikolaus, komm in unser Haus
+    pack die grosse Tasche aus]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[D0267  08  G 4/4]
+MEL[555_5654  3_3_3__
+    4_4_4543  2_2_2__
+    1_2_3_4_  56565__
+    +1_5_5654  3_2_5__
+    +1_5_5654  3_2_1__ //] >>
+FCT[Ansinge - Lied]
+
+DVA
+CUT[Die zwoelf heiligen Zahlen
+    "Guter Freund, ich frage Dich. "]
+CNR["Bester Freund, was fragst Du mich? "]
+REG[Europa, Mitteleuropa, Deutschland, Eifel]
+KEY[D0268  08  G 4/4]
+MEL[1_.23_3_  2_2_1_0_
+    3_.45_5_  4_4_3_0_
+    5_.3543_  2_343_0_
+    3_323_3_  3_323_0_
+    2_3_2__  2_3_2_
+    13  5_3_234_  4__3_0_ //] >>
+FCT[geistliches Lied, Curiosa geistlicher Lieder des Mittelalters]
+
+DVA
+CUT[In Hamburg steht ein Haus,
+    in Hamburg steht eine Villia,]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[D0269  16  C 2/4]
+MEL[ 5__  +1_5_3_1_  5__
+    +3__  +2_+1_7_6_  5__
+    6__  5_.43_44  5_5_5__
+    5_.43_4_  5_5_5_
+    +1_  7_7_6_7_  +1__ //] >>
+FCT[Tanz - Lied, Spiellied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Von der hohen Alm auf die Niederalm,
+    von der Niederalm auf d'Tret ja]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[D0285  16  D 3/4]
+MEL[    1_.2  3_1_6__5_.4  4_-7_2__
+    2_3_  4_2_7__6__  5_1_3__
+    3_4_  5_+1_+3__+2_.+1  7_5_7__
+    (6_5_4_)  4_2_4_5_6_4_  3___
+    3_4_  5_+1_+3__+2_.+1  7_5_7__
+    (6_5_4_)  4_2_4_5_6_4_  3___
+    5_.3  4_+2_7_+2_4_.5  +1_+3_+1_+3_+1_.
+    5  7_+4_+2_+4_7_.+1  +1_+3_+1_+3_+1_.
+    +1  +1_+6_+5#_+6_+2_.+1  +1_+3_+1_+3_+1_.
+    +1  7_+4_+2_+4_7_+2_  1__0__ //] >>
+FCT[Hirten - Lied, Bauern - Lied, Kiltlied, Jodler]
+CMT[Dreistimmig notiert; Inzipit = Variante zum Lied]
+
+DVA
+CUT[Die Sennerin hoasst Liesl,
+    sie is von Milch und Bluet]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[D0286  16  G 4/4 6/8]
+MEL[      -5__  1__.-5_-3__-5__  1__1__0__
+    1__  2__.-7_-5__2__  1___0__
+    -5__  1__.-5_-3__-5__  1__1__0__
+    1__  2__.-7_-5__2__  1__.
+    1_-7_1_  2_2_-5_2_1_2_  3_3_1_
+    1_-7_1_  2_.-7-5_4_3_2_  1__.
+    1_-7_1_  2_.-7-5_4_3_2_  1__.
+    -5_-5_.-5  -5_1_1_1_1_.1  1_3_3_
+    1_1_3_  5__.4_3_2_  1__.
+    -5_-5_.-5  -5_1_1_1_1_.1  1_3_3_
+    1_1_3_  5__.4_3_2_  1__.0__. //] >>
+FCT[Hirten - Lied, Bauernlied, Jodler]
+CMT[mehrstimmig notiert; Takt von 3/4 auf 6/8 korrigiert
+    Inzipit = Variante zum Lied]
+
+DVA
+CUT[Und's Deandl is wunderschoe, i muass's aufrichti sagn,
+    im ganz'n Land Tirol g'fallt koani mir so wohl]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[D0287  32 Eb 3/4]
+MEL[+1__+1__+1__  5__.5_3__0_3_3__3__  4__.4_-7__
+    7__7__.7_  6__.6_2__-7__1__-7__  5__.5_3__
+    +1__+1__+1__  5__.5_3__0_3_4__5__  6__+1__+1__
+    +1__7__6__  6__5__7__6__5__4__  3___0___0___
+    (3__5__+1__)(5__.4_3__)+1__.3_  (2__4__7__)6__2__7___
+    (2__4__7__)6__2__7__4__  3___5___+1___
+    1_1_1__3_3_3__5_5_5__  +3___+4_.+3+2_+1_7_+2__.  5____0___
+    (3__5__+1__)(5__.4_3__)+1__.3_  (2__4__7__)6__2__7___
+    (2__4__7__)6__2__7__4__  3___5___+1___  +3___0__ //] >>
+FCT[Scherz- und Spott - Lied, Jodler]
+CMT[Zweistimmig notiert (Terzparallelen ); Inzipit = Variante zum Lied]
+
+DVA
+CUT[Ob ich gleich ein Schaefer bin
+    hab' ich immer frohen Sinn]
+REG[Europa, Mitteleuropa, Deutschland, Unterfranken, Wuerzburg]
+KEY[D0288  16  F 3/4]
+MEL[    1_.2  3__3__2_.2  1__0__
+    1_3_  5__.3_2_2_  1__0__
+    5_5_  6_5_4_3_4_4_  4_6_5_4_3_2_  3_2_
+    1_1_1_3_  2_2_1__
+    1_3_  5__.3_2_2_  1__0__ //] >>
+FCT[Hirten - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Pioniere sind stets munter,
+    greifen immer tapfer an]
+REG[Europa, Mitteleuropa, Deutschland,]
+KEY[D0290  08  D 4/4 2/4]
+MEL[       3_.33323  5_4_0__
+    2_.77767  +1__.0_
+    3_.33323  5_4_0__
+    2_.77767  +1__.0_
+    7_.77767  +1_5_0__
+    7_.77767  +1_5_0_
+    34  5_+1_7_6_  5__
+    6_.6  5567  +1_
+    33  5_+1_7_6_  5__
+    6_.5  5567  +1__ //] >>
+FCT[Soldaten - Lied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Der Duwakwak, der Duwackelwak, der Duwak ist mein Leben,
+    der Duwakwak, der Duwakwak, der Duwak ist mei Freud]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg, Stuttgart]
+KEY[D0292  16  G 2/4 4/4]
+MEL[     5__  3_3_3_3_  3_333_3_  3_3_6_3_  5__4_
+    4_  2_2_2_-5_  2_2_2_2_  5_5_5_-7_  1__0__
+    -5_-5_1_2_  3_.21_1_0_3_6_6_  5_4_-7__0_
+    -5_-7_2_  5_5_5_5_0_4_3_2_  3_.21__  0_
+    -5_1_2_  3_.21__.6_6_3_  5_4_-7__.
+    -5_-7_2_  5_5_5__.5_4_-7_  1___0_
+    -5_1_2_  3_.21__.6_6_3_  5_4_-7__.
+    -5_-7_2_  5_5_5__.5_4_-7_  1___0__ //] >>
+FCT[Trink - Lied, Zech - Lied]
+CMT[letzte Pause rhythmisch korrigiert]
+
+DVA
+CUT[A bissel sikkarisch, a bissl sakrisch,
+    a bissl nobel muess ma thoa]
+REG[Europa, Mitteleuropa, Oesterreich, Tirol]
+KEY[D0297  08  G FREI]
+MEL[ -5_3_1_  -7_2_5_.-54-7  110
+    1-7-6  -5-50_-4-6  5_.
+    -531  -72550_7-7  11110_
+    -7-6  -54-6_-7-5  1_.
+    -531  -72550_7-7  11110_
+    -7-6  -54-6_-7-5  1_.
+    -5__.  -6__.  -7__.  153151  26426_
+    -754-751  1+1531_
+    153151  26426_
+    7_.65-7  1__. //] >>
+FCT[Jodel - Lied]
+CMT[Sonderzeichen in der Notation (Glissando)]
+
+DVA
+CUT[Ihr lustige Brueder, stimmt das schoene Lied a,
+    un' des Lied von de Waldhauer, des jedermann ka']
+REG[Europa, Mitteleuropa, Deutschland, Baden, Alpirsbach]
+KEY[D0298  08  D 3/4]
+MEL[-5_  1_1_.2  3_3_
+    13  5_5_65  5_0_
+    55  6_4_.6  653_0
+    3  5_.25_  3_0_
+    55  6_4_.6  653_0
+    5  7_6_4_  3_0_ //] >>
+FCT[Staende - Lied, Floesserlied]
+CMT[Inzipit = Variante zum Lied]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Gross  Gerau, Klein Gerau]
+KEY[D1001  16  G 2/4]
+MEL[  3_.21_-7_  1_-7_1_2_  -5_.0
+    -5_-7_  2__.1_  -7_2_6_5_  3___  ^_0_
+    1_2_  3__5__  4_3_2_1_  -6___  ^_0
+    1-7_-6_  -5__.1_  -7_2_6_5_  3___ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 487]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Schweiz, Wimmis]
+KEY[D1002  08  G 4/4]
+MEL[-51  3_.21-712  -5__0_
+    -5-6  2_.1-7265  3__0_
+    -51  3_.54321  -6__0_
+    1-6  -5_.1-7243  1__0_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 18 747]
+
+DVA
+CUT[Muede kehrt ein Wanderer zurueck
+    nach der Heimat wendet er sein Blick]
+REG[Europa, Mitteleuropa, Deutschland, ???, Walensee, Oberterzen]
+KEY[D1003  08  G 4/4]
+MEL[-5-5  3_.21-712  -5_0__
+    -71  2_.1-7265  3_0__
+    -5-5  3_.54321  4_0_.
+    446  5_.11_1_  3_2_1_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 21 144]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat stiller Liebe Glueck]
+REG[Europa, Mitteleuropa, Schweiz, Kt. Aargau, Wohlen - Zufikon]
+KEY[D1004  16  G 4/4]
+MEL[-5_-5_  3__.2_1_.-71_.2  -5___0__
+    -7_.1  2__.1_-7_2_6_5_  3___0__
+    1_.2  3_5_5__4_.32_1_  -6___0__
+    1_.-6  -5__1__-7_2_6_5_  3___0__
+    1_.2  3_5_5__4_.32_1_  4___0__
+    4_2_  5__.4_-5_4_3_2_  1___0__ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 24 689]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat sehnt sich seinen Blick]
+REG[Europa, Mitteleuropa, Schweiz, Graubuenden, Tenna]
+KEY[D1005  16  G 4/4]
+MEL[-5_.1  3__.2_1_1_1_3_  -5___0__
+    -5_1_  2__.1_-7_2_4_3_  1___
+    -5_1_3_5_  5___4_3_2_1_  -6___0__
+    1_-6_  -5_1_1__-7_2_4_3_  1___
+    -5_1_3_5_  5___4_3_2_1_  -6___0__
+    1_-6_  -5_1_1__-7_2_4_3_  1___0__ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 28 158]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebsten Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Wuettemberg, Nagold, Egenhausen]
+KEY[D1006  08  G 4/4]
+MEL[-5-5  3_.21-712  -5__0_
+    -71  2_.1-7243  1__0_
+    12  355_4321  -6__0
+    11-6  -5_.1-7243  1__0_
+    12  355_4321  -6__0
+    11-6  -5_.1-7265  3__0_ //] >>
+FCT[Liebes - Lied]
+CMT[Tonlaengen im vorletzten Takt korrigiert; DVA-Signatur A 36 810]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Lieben Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg, Tiefenbach]
+KEY[D1007  08  G 4/4]
+MEL[32  1_.11114  4_0__
+    -5-7  1_.21265  3_0__
+    12  3_.54321  -6_0_.
+    -4-3-2  -5-6-726_5_  3_0__ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 37 192]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanauer Kinzigtal,
+    Langenselbold]
+KEY[D1008  08  G 4/4]
+MEL[-51  3_.21-713  -5__0_
+    -51  2_.1-7265  3__0_
+    12  3_5_4321  -6__0_
+    1-6  -5_.1-7265  3__0_
+    12  3_5_4321  -6__0_
+    1-6  -5_.1-7265  3__0_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 46 222]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hirschberg]
+KEY[D1009  08  G 4/4]
+MEL[-53  3_.21-712  -5__0_
+    -5-7  2_.1-7243  1__0_
+    12  3_.54321  4__0
+    432  -5_.1-7243  1__0_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 51 775]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland Pfalz, Eifel, Kerpen]
+KEY[D1010  08  G 4/4]
+MEL[-51  3_.21-713  -5__0_
+    -5-7  2_.1-7265  3__0_
+    12  3_.54321  -6__0
+    1-71  -5_.1-7265  3__0_
+    12  355_4321  1_6_0
+    654  3_.1-714-7  1__0_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 52 662]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, ???]
+KEY[D1011  08  G 4/4]
+MEL[-5-5  3_.21-713  -5__0_
+    -71  2_.1-7265  3__0_
+    12  3_.54321  -6__0_
+    1-6  -5_.1-7265  3__0_
+    12  3_.54321  -6__0_
+    1-6  -5_.1-7265  3__0_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 57 199]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    in die Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Bauzen]
+KEY[D1012  16  G 4/4]
+MEL[-5_-5_  3__.2_1_.-71_2_  -5___0__
+    -7_1_  2__.1_-7_2_6_5_  3___0__
+    1_2_  3_5_5___4_3_  2_3_4__0_
+    4_4_6_  5__.4_3_2_3_2_  1___.
+    1_2_  3_5_5___4_3_  2_3_4__0_
+    4_4_6_  5__.4_3_2_3_2_  1___. //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 59 141]
+
+DVA
+CUT[Warum weinst du, schoene Gaertnersfrau]
+REG[Europa, Mitteleuropa, Deutschland, Anhalt, Rauschenbach, Loedderitz]
+KEY[D1013  08  G 4/4]
+MEL[-5-5  1_1_1_1_  1_3_-5__
+    -5_-7_2_.1  -7_2_4_3_  1__0_
+    -5-5  1_3_3_5_  4_3_2_1_  -6__
+    1_-6_  -5_1_-7_-6_  -7_1_3_2_  1__0_ //] >>
+FCT[???]
+CMT[DVA-Signatur A 59 974]
+
+DVA
+CUT[Muede kehrt ein Wanderer zurueck]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Duesseldorf, Ittar]
+KEY[D1014  16  G 4/4]
+MEL[-5_1_  3__.2_1_-7_1_2_  -5___.
+    -5_-7_  2__.1_-7_2_6_.5  3___.
+    1_2_  3__.5_4_3_2_4_  -6___0_
+    -7_1_-6_  -5__.1_-7_2_6_.5  3___0__
+    1_2_  3__.5_4_3_2_4_  -6___0_
+    -7_1_-6_  -5__.1_-7_2_4_.3  1___0__ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 102 640]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    beseligt von der ersten Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Rheinlamd Pfalz, Mosel, Mehring]
+KEY[D1015  08  G 4/4]
+MEL[-5-5  1_.-71-712  -5__0
+    -5-5-7  2_.1-7265  3__0_
+    13  5_.54321  6__0
+    432  5_.-5-5432  1_0__ //] >>
+FCT[Liebes - Lied]
+CMT[rhythmische Korrektur: in Takt 5 Punktierung ergaenzt
+    DVA-Signatur A 151 821]
+
+DVA
+CUT[Muede kehrt ein Wanderer zurueck
+    nach seiner Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Oesterreich, Tirol, Schwaz]
+KEY[D1016  16  G 4/4]
+MEL[3_.2  1__.1_1_-7_1_3_  -5___0_
+    1_-7_1_  2__.1_-7_2_6_.5  3___0_
+    1_1_2_  3__.5_4_3_2_1_  -6___0_
+    1_-7_-6_  -5__.1_-7_.24_.3  1___0_
+    1_1_2_  3__.5_4_3_2_1_  -6___0_
+    1_-7_-6_  -5__.1_-7_.24_.3  1___0__//] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 188 520]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Franken, Bamberg Stadt,
+    Neustadt a.S.]
+KEY[D1017  08  G 4/4]
+MEL[-5-5  3_.21-713  -5__.
+    -5-7  2_.1-7265  3__.
+    12  355__43  21-6__
+    1-7  -6-51-716_5  3__.
+    12  355__43  21-6__
+    1-7  -6-51-716_5  3__. //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 190 014]
+
+DVA
+CUT[Muede ging ein Wanderer zurueck
+    in die Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Ungarn, Kom. Tolnau, Dunakoemloed]
+KEY[D1018  08  G 4/4]
+MEL[55  1_1_-7122  -7__0_
+    -71  2_2_-7233  1__0_
+    13  5_5_4321  -6__0
+    11-6  -5_1_-7243  1__0_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 191 163]
+
+DVA
+CUT[Muede kehrt ein Wanderer zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, ???, Bielitz]
+KEY[D1019  16  G 4/4]
+MEL[-5_.-5  3__.2_1_.-71_.2  -5__0___
+    -7_.1  2__.1_-7_2_6_5_  3__0___
+    -5_.-5  3__.3_5_.54_.3  2__0___
+    3_.2  1__.-5_-5_4_3_2_  1__0___ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 193 113]
+
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Franken, Bamberg Ebern,
+    Muersbach]
+KEY[D1020  16  G 2/4]
+MEL[-5_1_  3__.2_  1_-7_1_1-7  -5__0__  0__
+    -5_-7_  2__.1_  -7_2_4_3_  1__0__  0__
+    1_2_  3__.5_  5__4_3_  2__0__  0_
+    2_4_2_  1__.1_  3_2_-5_-7_  1__0__  0__ //] >>
+FCT[Liebes - Lied]
+CMT[Takt in 2/4 korrigiert, in der 3. und 4. Zeile Pause ergaenzt
+    DVA-Signatur A 196 840]
+
+DVA
+CUT[Haensje klein geht allein
+    in de Ruett'gweiler Sportverein]
+REG[Europa, Mitteleuropa, Deutschland, Ottweiler, Welschbach]
+KEY[D1021  16  D 2/4]
+MEL[5_3_3__  4_2_2__
+    1_2_3_44  5_5_5_0_
+    5_333_03  4_222_0_
+    1_2_3_4_  5_5_5_0_
+    3_3_3_3_  6_5_5_0_
+    3_3_3_3_  3_5_5_0_
+    3_3_3_3_  6_3_3_0_ //] >>
+FCT[Kinder -, Scherz -, Neck - Lied]
+CMT[DVA-Signatur A 126 662]
+
+DVA
+CUT[Haenschen klein ging allein
+    in die weite Welt hinein]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg /Br., Ebnet]
+KEY[D1022  04  G 4/4]
+MEL[533_  422_
+    1234  555_
+    533_  422_
+    1355  1_0_
+    2222  234_
+    3333  345_
+    533_  422_
+    1355  1_0_
+    2222  234_
+    3333  345_
+    533_  422_
+    1355  1_0_ //] >>
+FCT[Kinder - Lied]
+CMT[DVA-Signatur A 218 598]
+
+DVA
+CUT[Haenschen klein geht allein
+    in die weite Welt hinein]
+REG[Europa, Mitteleuropa, Deutschland, Trier, Issel]
+KEY[D1023  04  F 4/4]
+MEL[533_  422_
+    1234  555_
+    533_  422_
+    1355  3_0_ //] >>
+FCT[Kinder - Lied]
+CMT[DVA-Signatur A 78 807]
+

@@ -1,0 +1,244 @@
+TEST
+CUT[Ich hab die Nacht getrÑumet
+    wohl einen schweren Traum]
+KEY[T0003A 16  E 6/8]
+MEL[-5_  1__2_3b_.21_  5__.2__
+    4_  3b_.21_-7__1_  2__.0__
+    -5_  5__5_3b_.21_  +1__.6b__
+    4_  3b_.21_2_.1-7_  1__.0__ //] >>
+TXT[Ich hab' die Na- cht ge- trÑu- met, *
+    wohl ei - nen schwe- ren Traum. *
+    Es stand in ei - nem Gar- ten, *
+    ein Ros - ma- rie - en- baum. *
+
+    Ein Kirchhof war der Garten,
+    das Blumenbeet ein Grab,
+    und von dem grÅnen Baume
+    fiel Kron und BlÅten ab.
+
+    Die BlÅten tÑt ich sammeln
+    in einem goldnen Krug
+    der fiel mir aus den HÑnden,
+    da· er in StÅcken schlug.
+
+    Draus sah ich Perlen rinnen
+    und Trîpflein rosenrot.
+    Was mag der Traum bedeuten? -
+    Herzliebster, bist du tot?]
+FKT[Barbara]
+BEM[bekannt]
+
+TEST
+CUT[Et wassen twe KÅnigeskinner,
+    de hadden enanner so lef;]
+KEY[T0004A 08  F 4/4]
+MEL[-5_  3_333_22  2_.11_
+    -5_  4_444353  3_2_0_
+    -5_  5_555_44  3__54
+    32  1_11322_  1__
+    2_4_  3_335432  1__0_ //] >>
+FKT[Barbara]
+BEM[Variante bekannt]
+
+TEST
+CUT[Rosestock, HolderblÅ!
+    Wann i mein Dirnderl siel,]
+KEY[T0007A 16  C 3/4]
+MEL[  +3__.+2_+1_3_  6__5_4_2__  6__5_4_2__  6__5_3_1_.0
+    +3__.+2_+1_3_  6__5_4_2__  5__6__7__  +1___0__
+    +4_.+3+2__0__  +3_.+2+1__0__  5__6__7__  +1_7_+1_+2_+3__
+    +4__+3+2__0_.  +3_.+2+1__0__  5__6__7__  +1___0__ //] >>
+FKT[Barbara]
+BEM[bekannt]
+
+CHINA
+CUT[Ta4i ya2ng chu1 la2i xi3 ya2ng ya2ng
+    Auf geht die Sonne]
+REG[Asien, Ostasien, China, Si4chua1n]
+ETH[Ha4nzu2]
+KEY[C0013  08  F 2/4]
+MEL[121-7b  1_20
+    -7b121  ^-7b-50
+    -4-5-7b-5  11-5_  -4_-50
+    -7b-51-7b  ^-51_  ^__ //] >>
+TXT[Tai- yang chu- lai (lu er) *
+    xi- yang- yang (ou - lang luo); *
+    Tiao- qi bian- dan (lang lang che kuang che) *
+    Shang shan- gang (ou - luo luo). *
+FKT[Grundton liegt in der zweigestrichenen Oktave; Verzierung
+    Als Tonbeispiel vorhanden; Signatur: 00151, Cut Nr.: 17
+    Arbeitslied]
+
+CHINA
+CUT[Xiu4 he2 ba1o]
+REG[Asien, Ostasien, China, Sha1nxi1]
+ETH[Ha4nzu2]
+KEY[C0037  16  D 2/4]
+MEL[+1_+1_+4_+5_  +17b+1__.  +4+1_+2+17b5_  4___
+    5_+1__+4_  +1+27b54__  7b_7b5452_  1___ //] >>
+FKT[Liebes - Lied]
+
+CHINA
+TTR[00000] TT[00]
+FA[NN]
+CUT[Moli hua]
+CNR[NN]
+REG[China, Jiangsu]
+ETH[Han]
+TRD[III, 482]
+KEY[C0328  16  D 2/4]
+MEL[323565+16  535__6_  +1_+2+3+2+16+1  5___
+    535__6_  +1_+2+3+165_  5_2_3532  1-61__.
+    321_2_.3  5_6+16_5_  532_3532  12-6__1_
+    2_.3121-6  1-6-5__.
+    323565+16  535__6_  +1_+2+3+2+16+1  5___
+    535__6_  +1_+2+3+165_  5_2_3532  1-61__.
+    321_2_.3  5_6+16_5_  532_3532  12-6__1_
+    2_.3121-6  1-6-5__.
+    321_2_.3  5_6+16_5_  532_3532  12-6__1_
+    +2_.+3+1+2+16  56+1+3+2+16+1  5___ //] >>
+FKT[xiao diao]
+BEM[Jiang nimmt an, es ist das Original.
+    Vorspiel weggelassen.]
+
+TEST
+CUT[CUCA 1]
+REG[Amerika, Mittelamerika, Mexiko]
+KEY[T0008  08  F 3/4]
+MEL[-5-5-5  1_3-5-5-5  1_3__
+    11-7-7-6-6  -5_.
+    -5-5-5  -7_2-5-5-5  -7_2__
+    565432  1__0_
+    -5-51133  5_3__
+    565435  4_2__
+    -5-5-7-722  4_2__
+    565432  3_1 //] >>
+FKT[Kinder - Lied]
+
+TEST
+CUT[CUCA 2]
+REG[Amerika, Mittelamerika, Mexiko]
+KEY[T0008A 08  F 4/4]
+MEL[0-5-5-5  10_30-5-5-5  10_30__
+    01_1-7-7-6-6  -5__
+    0-5-5-5  -70_20-5-5-5  -70_20__
+    05_65432  3_.10__
+    0-5_-51133  5_.3__^
+    05_65435  4_.2__^
+    0-5_-5-7-722  4_.2__^
+    05_65432  3_.1__^ //]
+
+TEST
+CUT[Yitang qingshui yitang lian]
+REG[Hunan, Hengshan]
+KEY[C0134  16  E 2/2]  ZZ[10]
+MEL[6_+1_6___.  +6_.++1+5___^_+3_
+    +6____  +5___.+3__  +2____
+    +1_+3_6_+1_+3___  ^__.+165__3__  3_5_6___.
+    6_+1_6___.  +6_.++1+5___+5_+3_
+    +3_+5_+6___.  +5___.+3__
+    +3__+3__+165_5_3_  3_5_6___.
+    +1__+1__+5__+3__  6_+1_+3___.  +2____
+    +3__+3__+1656+1__  +3__+1+2+1+2+1+2+1+2+1__
+    +1__+1__+3__6_+1_  +3____  +2____
+    +3__+3__(+1_6_5_)(6_5_3_)  5__6___. //]
+
+ZUCCAL
+CUT["Der Jaeger"
+    SEH I EIN SCHOENS VOEGELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1295  08 Eb 3/4]
+MEL[(567)  +1_6_44  6_5_
+    (-513)  5_4_2_  6_5_
+    (567)  +1_6_44  6_5_
+    (-513)  5_4_-7_  1_0_
+    (-513)  5_4_24  6_5_
+    (-513)  5_4_24  6_5_
+    (567)  +1_6_44  6_5_
+    (-513)  5_4_-7_  1_0_ //] >>
+FKT[Jaeger - Lied, Liebe]
+
+CUT[ES WAR EIN MARKGRAF UEBERN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0007  08  G 3/4]
+MEL[-5-5-5  1_.3b21  -7_0
+    23b4  5_.43b2  1_0
+    -5-5-5  1_.3b21  -7_0
+    23b4  5_.43b2  1_0
+    555  5_.23b1  2_0
+    -513b  2_.43b2  1_0
+    555  5_.23b1  2_0
+    -513b  2_.43b2  1_0 //]
+TXT[Es war ein Mark- graf ue- bern Rhein *
+    der hat drei schoe- ne Toech- ter- lein. *
+    zwei da- von frÅh hei- ra- ten weg  *
+    die dritt hat ihn ins Grab ge- legt.  *
+    dann ging sie sing'n vor Schwes- tern Tuer  *
+    ach, braucht ihr kei- ne Dienst- magd hier  *
+    dann ging sie sing'n vor Schwes- tern Tuer  *
+    ach, braucht ihr kei- ne Dienst- magd hier  *
+
+    "Ei MÑdchen, du bist viel zu fein,
+    du gehst gern mit den Herrelein."
+    "Ach nein, ach nein, das tu ich nicht,
+    mein' Ehre mir viel lieber ist."
+    Sie dingt das MÑgdlein ein halbes Jahr,
+    das MÑgdlein dient ihr sieben Jahr.
+
+    Und als die sieben Jahr um warn,
+    das MÑgdlein fing zu krÑnkeln an.
+    "Ach MÑgdlein, wenn du krank willst sein,
+    so sag, wer sind die Eltern dein?"
+    "Mein Vater war Markgraf Åberm Rhein,
+    ich bin sein jÅngstes Tîchterlein."
+
+    "Ach nein, ach nein, das glaub ich nicht,
+    da· du mein jÅngste Schwester bist."
+    "Und so du es nicht glauben willst,
+    so geh an meine Kiste hin,
+    darinnen liegt ein feines Band,
+    dir ist es von der Mutter bekannt.
+
+    Und in der Ecke liegt ein Ring,
+    da steht meins Vaters Name drin."
+    und als sie es gesehen hat,
+    da rannen ihr die TrÑnnen ab.
+    "Ach, hÑttest Du mir lÑngst gesagt,
+    das du mein liebe Schwester warst.
+
+    Ach, bring mir Weck, ach birng mir Wein,
+    es ist mein jÅngstes Schwesterlein!"
+    "Ich will kein Wein, kein Wecken mehr,
+    sechs Brettlein nur sind mein Begehr."]
+
+F[ZUCCAL
+CUT[STERBEN IST EIN HARTE BUSS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0289  04  G 4/4]
+MEL[  543b2  1-5-5_
+      543b2  1-5-5_
+      3b3b55  3b3b5_
+      6b_5_  4_3b_  221_ //]
+TXT[Ster- ben ist ein schwe- re Buss, *
+    weiss wohl das ich ster- ben muss. *
+    Und ein Roes- lein ro- sen- rot *
+    pflanzt mein Schatz nach mei- nem Tod. ]
+FKT[Lyrisches Lied, Romanze, Tod]
+
+CUT[MEMORY]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[U0002  16  H 6/8]
+MEL[3b__.3b__.^_2_3b_4_3b_1_  3b__.3b__.^_
+    2_3b_4_3b_.-7b  1__.1__.^_
+    -6b_-7b_1_-7b_-6b_  -5___.^__.
+    -5__-7b_  -7b__.-4__-5_-6b_-7b_
+    1_2_  3b_2_1_-7b__.^__.
+    -5__-3_b  -7b__.^__.^__-1_-1__-3b_  -3b___. //] >>
+TXT[Mid- night.  Not a sound from the pave- ment  *
+    Has the moon lost her me- mory?   *
+    She is smil- ing a- lone._  *
+    In the lamp- light the wi- thered *
+    leaves col- lect at my feet *
+    And the wind _ _ be- gins to moan *]
+BEM[PopulÑr, mÅhsam eingetippt von Ulrich Franzke...]
+

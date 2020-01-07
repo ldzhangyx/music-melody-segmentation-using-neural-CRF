@@ -1,0 +1,315 @@
+F[ERK5
+CUT[Kaisari nokkur maetur mann]
+REG[Europa, Island]
+KEY[L0031A 16  G 2/4]
+MEL[4__.44  4__.4_  4_3_2__  1___
+    1__1__  1__.1_  3b___  2__0__
+    4__.4_  4__.4_  4_3_2__  1___
+    1__.1_  1__.2_  2__.3b_  1___
+    3b__.3b_  1__.1_  2__.2_  4__.4_  4__.3_  2___ //] >>
+FCT[Lied]
+CMT[Island, bis 1850 im Volksmund erhalten.]
+
+F[ERK5
+CUT[Kaisari nokkur maetur mann]
+REG[Europa, Island]
+KEY[L0031B 16  A 6/8]
+MEL[1_.23b_2_.1-7_  1_.23b_2__0_
+    2__2_3b__4_  5__.4__0_
+    3b__3b_3b__4_  5__5_4__.
+    4__3b_2__1_  2_.3b2_1__0_
+    3b__3b_1__1_  1__2_3b__4_  4__.^__3b_  2__0_^__. //] >>
+FCT[Lied]
+CMT[Island]
+
+F[ERK5
+CUT[Ic sie die morgensterre]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0035A 08  D 4/4]
+MEL[1_  3b_4_5_+1_  7b_6_5_
+    5_  7b_6b_5_4_  4_3b_0_
+    3b1  2_3b_4_1_  1_-7b_0_
+    3b1  2_3b_4_3b_  2_1__ //] >>
+FCT[Lied]
+CMT[Wiener Hs, 15. Jh.]
+
+F[ERK5
+CUT[Ic sie die morghen sterre]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0035B 04  D 4/2]
+MEL[1_  3b_4_5_+1_  7b_6_5_
+    4_  5_5_7b_5_  543b_0_
+    3b_  2_2_542_  1__-7b_
+    (3b45)  7b_7b_545_  3b21_0_ //] >>
+FCT[Lied]
+
+F[ERK5
+CUT[Es fuhr sich ein Pfalzgraf]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0039  08  D 2/4]
+MEL[2  5_56  7b_65  67b65  4_.
+    5  5_23b  4_43b  2_3b2  1_0 //] >>
+FCT[Lied]
+CMT[Aus Zuccalmaglios Nachlass]
+
+F[ERK5
+CUT[Es waren drei Schelmen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0057  08  G 4/4]
+MEL[3_  -6_-712_1-7  1_2_3__  0_
+    123_21  -7_-6_0_
+    1_  2_235432  3_1_1_1_  2_3_1_ //] >>
+FCT[Lied]
+CMT[Aus dem Siebengebirge vor 1860]
+
+F[ERK5
+CUT[Da zu Mitterfasten es geschah]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0060  08  D 4/4]
+MEL[1__4__  5_4_2_3b_  1__2_3b_  4__0_
+    1_  -7b__4__  5__3b__  4__4__  3b__0_
+    2_  3b__4__  3b__1_2_  2_-7b_-6_2_  3b_1-7b-6__  -5___ //] >>
+FCT[Lied]
+CMT[Hs. des 15. Jh.]
+
+F[ERK5
+CUT[Ik sach mijn heere van Valkenstein]
+REG[Europa, Mitteleuropa, Niederlande]
+KEY[L0062A 04  D 4/2]
+MEL[1_  5_5_3b_1_  2_3b_4_
+    5_  6_7b_+17b7b_  6__5_
+    5_  6_7b_+1_1_  3b_6b_5_
+    5_  3b_456b_5_  43b2_1_ //] >>
+FCT[Lied]
+CMT[Niederl. Melodie geistl. Liederbuch 1539]
+
+F[ERK5
+CUT[Doen Hanselijn over der heiden reet]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0063  08  E 3/4]
+MEL[1_  3b_.3b3b_  3b_.3b3b_  4__3b_  4__
+    4_  6b__6b_  5_4__  3b_.2b1-7b  1__
+    1_  4__4_  4__4_  3b__1_  -6b__
+    -6b_  3b__3b_  1_2b_3b_  4__.  3b__6b_  5_.43b2b  1__ //] >>
+FCT[Lied]
+CMT[Souterliedekens 1540 No. 69]
+
+F[ERK5
+CUT[Der Herr von Braunschweig]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0064  04  D 3/2]
+MEL[1_  3b45_1_  445_
+    +1_  7b+17b_6_  5_3b_0
+    3b  3b_5_3b_  221_0
+    1  3b45_3b_  2_1_ //] >>
+FCT[Lied]
+CMT[15. Jh.]
+
+F[ERK5
+CUT[Es waren einmal drei Reiter gefangn]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0065  08 Bb 4/4]
+MEL[-5_  1_1_1_3_  1_-5_-3_
+    -5_  3_.1322-7  1__0_
+    12  3_3_4321  2_.32_
+    -5-7  2_2_321-7  1_-5_-3_
+    -5_  3_.1322-7  1__0_ //] >>
+FCT[Lied]
+CMT[ab 1818]
+
+F[ERK5
+CUT[Es stand eine Lind im tiefen Thal]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0067C 16 Bb 2/4]
+MEL[-5_  1_1_1353  2_.1-7_
+    2_  1_-6_-6-71-6  -5_.-4-3_
+    -5_  1_1_2_25  3__2__  1__0_ //] >>
+FCT[Lied]
+CMT[Buesching/ von der Hagen 1807]
+
+F[ERK5
+CUT[Es haett ein Maidlein ein Reiter hold]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0067F 08  D 3/4]
+MEL[1_  1__1_  5__5_  6__6_  5__
+    5_  6__6_  +1__5_  7b__6_  5__.  ^456
+    7b_  6_.7b+1_  7b_.65_  4_2_3b_  2__
+    5_  5__7b_  5__1_  3b_2__  1__ //] >>
+FCT[Lied]
+CMT[Souterliedekens 1540 ad Ps. 99]
+
+F[ERK5
+CUT[Het reden twee ghespeeln goet]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0070A 04  D 4/4]
+MEL[5  5_7b_  6_+1_  7b_6_  5_0
+    5  +1_7b_  7b_5_  543b_  2_0
+    1  3b_.4  5_.5  6b_46b  543b_  2_0
+    2  3b_1_  2_4_  43b2_  1_0 //] >>
+FCT[Lied]
+CMT[Hs. des 15. Jh.]
+
+F[ERK5
+CUT[Es waren zwei Gespielen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0070B 08  F 3/4]
+MEL[-5  135_2_  3_2_0
+    5  57+1_6_  7_5_0
+    5  57+1_+2_  +165_0
+    3  465_2_  3_1_0
+    5  57+1_+2_  +165_0
+    3  465_2_  3_1_0 //] >>
+FCT[Lied]
+CMT[Muendl. aus Schlesien]
+
+F[ERK5
+CUT[Ich sach mir einen blauen Storchen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0071A 04  G 6/4]
+MEL[5  5_556b6b  5_54_
+    4  +1_7b_6b4  5_15_
+    5  5_6b_7b5  4_.1_
+    2  3b_3b_22  1_-51_ //] >>
+FCT[Lied]
+CMT[Baseler Hs., 1544]
+
+F[ERK5
+CUT[Es wollt ein Maedchen waschen gan]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0072  08  G 2/2]
+MEL[1_  1__1__  5__.4_  5__3b__  2__0_
+    3b_  4__4__  5__.4_  3b__2__  1__0_
+    5_  4__2__  3b__1__  2___  -5__0_
+    2_  3b__2__  1__5__  4__3b__  2123b4_
+    5_  3b_1_2__  1__4__  2_2_3b_4_  567b65_4_  ^3b213b_2_  1__. //] >>
+FCT[Lied]
+CMT[Aus: 68 Lieder. 1550 No. 30]
+
+F[ERK5
+CUT[Een stuck van liefde moet ik u verhalen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0081  08  A 2/4]
+MEL[1_22  3b_.2  1-7b1-5  -5_-4_
+    -7b_-7b-7b  1_.1  -7b1-7b-6b  -5__
+    1_22  3b_.2  1-7b1-5  -5_-4_
+    -7b_-7b-7b  1_.1  -7b1-7b-6b  -5__
+    -5_-5-6b  -5_-4_  -7b_12  1_-7b
+    -7b  1122  3b_.2  211-7  1__ //] >>
+FCT[Lied]
+CMT[Coussemaker Nr. 51]
+
+F[ERK5
+CUT[Daer was een edel Pfalzgravin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0082  16  D 2/4]
+MEL[5  5_.+1+1_+1_  +1_.7b7b_0
+    7b  +1_.55_5_  5_.4450
+    5  7b_.7b7b_+1_  7b_.6b5_0
+    5  +1_.55_.5  4_.3b2_0
+    1  1_.23b_4_  5_.45_.
+    5  5_.7b7b_7b_  +1_.7b+1_0 //] >>
+FCT[Lied]
+CMT[Coussemaker Nr. 62]
+
+F[ERK5
+CUT[Ach Elslein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0083A 08  G 3/4]
+MEL[1_  1__3b_  2__1_  2_.3b4_  5__
+    5_  4__2_  3b_1__  -7b__
+    -7b_  2__3b_  4__3b_  1_.23b_  2__
+    1_  -7b_-5__  1__-7_  1__
+    1_  -7b_-5__  1__-7_  1__. //] >>
+FCT[Lied]
+CMT[Joh. Ott 1534 No. 37]
+
+F[ERK5
+CUT[Ach Elslein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0083B 08  A 3/4]
+MEL[1_  1__3b_  2__1_  2_.3b4_  5_0_
+    5_  4__2_  3b_1__  -7b__
+    -7b_  2__3b_  4__3b_  1_.23b_  2_0_
+    1_  -7b_-5__  2__-7_  1__
+    1_  -7b_-5__  2__-7_  1__ //] >>
+FCT[Lied]
+CMT[Judenkunig, Lautentabulatur 1523]
+
+F[ERK5
+CUT[Elslein, liebes Elslein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0083C 08  D 3/4]
+MEL[1__3b_  2__1_  2_.3b4_  5__
+    5_  1__2_  4_.3b21  -7b__.  0__
+    -7b_  2_.3b4_  3b__2_  1_.23b_  2__
+    1_  -7b__-5_  -6_-7_.-6  1__. //] >>
+FCT[Lied]
+CMT[15. Jh.]
+
+F[ERK5
+CUT[Ach Mutter liebe Mutter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0084B 16  G 2/4]
+MEL[-5_  3_.33_.2  2__1_-5_  4_4_4353  2__0_
+    -5_  5_.65_4_  3__5432  1_1_3212  1__
+    2__  3_3_542_  1__0_ //] >>
+FCT[Lied]
+CMT[Bote 1807, dann Buesching/von der Hagen]
+
+F[ERK5
+CUT[Het waren twe konigs kinderen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0085  08  G 3/4]
+MEL[-5_  1_3_4_  5__6_  543_
+    5_  5_4_3_  2_3_4_  3__
+    -5_  1_3_4_  5__6_  543_
+    5_  5_4_3_  2_3_4_  3__.
+    2__.  5_4_3_  2_3_2_  1_-5_
+    1_  1_2_3_  4_3_2_  3__0_
+    2__.  5_4_3_  2_3_2_  1_-5_
+    1_  1_2_3_  4_3_2_  1__ //] >>
+FCT[Lied]
+CMT[Coussemaker Nr. 49]
+
+F[ERK5
+CUT[Es wohnet Lieb bei Liebe]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0086  04  D 3/2]
+MEL[1_  3b_3b4_4  5_5_
+    5_  7b_7b6b_4  5_4_
+    4_  5_55_7b  6b_5_
+    5_  4_3b5_3b  2_1_
+    5_  4_43b_1  23b4_
+    4_  4_44_5  6b_5_
+    5_  4_3b5_3b  2_1_ //] >>
+FCT[Lied]
+CMT[1581]
+
+F[ERK5
+CUT[Koennt ich von Herzen singen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0087  04  A 6/4 4/2]
+MEL[1_  1_1-7b_-5  -7b_1_
+    3b_  3b_53b_1  -7_1_
+    1_  1_1-7b_-5  -7b_1_
+    3b_  3b_53b_1  -7_1_
+    3b_  3b_23b_1  21-7b_0_
+    3b_  3b_23b_4  5_3b1-7b_
+    3b_  3b_53b_1  -7_1_ //] >>
+FCT[Lied]
+CMT[Hamburg 1598 No. 77]
+
+F[ERK5
+CUT[Vrienden, kommt alle gaere]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0091  16  A 3/4]
+MEL[1_.2  3b__1__-5__  1_.21__
+    1_.2  3b__1__-5__  1_.21__
+    1_.3b  2__-7b__-5__  -7b_.1-7b__
+    -7b_.1  2__-7b__-6__  -5_.-6-5_0_
+    -3b_.-4  -5__-5__-6b__  -7b_.1-7b__
+    1_.1  -5__-5__1__  2_.3b2__
+    1_.2  3b__1__-5__  1_.21__ //] >>
+FCT[Lied]
+CMT[Flaemisch, von der Familie Westendorp aus Elberfeld]
+

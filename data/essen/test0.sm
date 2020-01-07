@@ -1,0 +1,432 @@
+TEST
+CUT[Ich hab die Nacht getr„umet
+    wohl einen schweren Traum]
+KEY[T0003A 16  E 6/8]
+MEL[-5_  1__2_3b_.21_  5__.2__
+    4_  3b_.21_-7__1_  2__.0__
+    -5_  5__5_3b_.21_  +1__.6b__
+    4_  3b_.21_2_.1-7_  1__.0__ //]
+TXT[Ich hab die Na- cht ge- tr„u- met   *
+    wohl ei - nen schwe- ren Traum.     *
+    Es stand in ei - nem Gar- ten,      *
+    ein Ros - ma- rie - en- baum.]
+FCT[Liebeslied]
+CMT[bekannt]
+
+TEST
+CUT[CUCA 1]
+REG[Amerika, Mittelamerika, Mexiko]
+SRC[Schaffrath: Materialien (einschlieál. ..zig Strophen]
+KEY[T0008  08  F 3/4]
+MEL[-5-5-5  1_3-5-5-5  1_3__
+    11-7-7-6-6  -5_.
+    -5-5-5  -7_2-5-5-5  -7_2__
+    565432  1__0_
+    -5-51133  5_3__
+    565435  4_2__
+    -5-5-7-722  4_2__
+    565432  3_1 //]
+TXT[La cu- ca- ra- cha, la cu- ca- ra- cha  *
+    ya no pue- de ca- mi- nar,              *
+    por- que no tie- ne, por- qe le fal- ta *
+    Ma- ri- hua- na que fu- mar.            *
+    Ya se van los Car- ran- zis- tas,       *
+    ya se van pa- ra Per- ro- te            *
+    yi no pue- den ca- mi- nar - ,          *
+    por cau- sa de sus bi- go- tes.]
+FCT[Corrido, gesungene Zeitung]
+CMT[erste Fassung aus der Mex. Revolution. Die Zeilen 1 und 2 (REFRAIN)
+    k”nnen wiederholt werden. - Text = beliebige Strophe.]
+
+TEST
+CUT[CUCA 2]
+REG[Amerika, Mittelamerika, Mexiko]
+SRC[Schaffrath: Materialien (einschlieál. ..zig Strophen]
+KEY[T0008A 08  F 4/4]
+MEL[0-5-5-5  10_30-5-5-5  10_30__
+    01_1-7-7-6-6  -5__
+    0-5-5-5  -70_20-5-5-5  -70_20__
+    05_65432  3_.10__
+    0-5_-51133  5_.3__^
+    05_65435  4_.2__^
+    0-5_-5-7-722  4_.2__^
+    05_65432  3_.1__^ //]
+TXT[La cu- ca- ra- cha, la cu- ca- ra- cha  *
+    ya no pue- de ca- mi- nar,              *
+    por- que no tie- ne, por- qe le fal- ta *
+    Ma- ri- hua- na que fu- mar.            *
+    Ya se van los Car- ran- zis- tas,       *
+    ya se van pa- ra Per- ro- te            *
+    yi no pue- den ca- mi- nar - ,          *
+    por cau- sa de sus bi- go- tes.] >>
+FCT[Corrido, gesungene Zeitung]
+CMT[zweite Fassung NACH der Mex. Revolution. Die Zeilen 1 und 2 (REFRAIN)
+    k”nnen wiederholt werden.- Text = beliebige Strophe.]
+
+TEST2
+STN[00000] ST[]
+CUT[Chiu K'uang (Jiu guang: Weintrunkenheit)]
+REG[China]
+KEY[I0001  08  C 4/2 6/4]
+MEL[1_+251_+351_+5_+5__  1_+551_+6b51_++1_++1__
+    1_++151_+6b51_+5_+5__  1_+351_+1_+1__
+    6_6_+3_+2+11_+1_+1__
+    6_6_+3_+2+11_+1_+1__
+    1_+2+31_+3+51_+5_+5__  1_+5+61_+6++11_++1_++1__
+    1_++151_+6b51_+5_+5__  1_+351_+1_+1__
+    6_6_+3_+2+11_+1_+1__
+    1_+2+31_+3+51_+5_+5__  1_+5+61_+6++11_++1_++1__
+    3_+362_+251_+1_+1__  3_+362_+251_+1_+1_+3+2
+    -611_3_3_245_5__  -611_3_3_245_5__
+    6_6_+3_+2+11_+1_+1__
+    6_6_+3_+2+11_+1_+1__
+    1_+2+31_+3+51_+5_+5__  1_+5+61_+6++11_++1_++1__
+    1_+251_+351_+5_+5__  1_+551_+6b51_++1_++1__
+    5+11_+3_3_+1+45_+5__  5+11_+3_3_+1+45_+5__
+    +6_+6_++3_++2_1_++1_++1__  +6_+6_++3_++2_1_++1_++1__
+    3_++362_++251_+1_+1__  3_++362_++251_+1_+1__
+    5+11_+3_3_+1+45_+5__  5+11_+3_3_+1+45_+5__
+    +6_+6_++3_++2_1_++1_++1__  +6_+6_++3_++2_1_++1_++1__]
+MEL[3_++362_++251_+1_+1__  3_++362_++251_+1_+1__
+    1_++151_+6b51_+5_+5__  1_+351_+1_+1__
+    6_6_+3_+2+11_+1_+1__
+    6_6_+3_+2+11_+1_+1__
+    1_+2+31_+3+51_+5_+5__  1_+5+61_+6++11_++1_++1__] >>
+MOD[]
+FCT[Kunstmusik]
+CMT[Die Notation sollte im Baáschlssel erfolgen. Transkription nach
+    Liang Mingyue; ohne seinen besonderen Schluss. Zeile 6, 17 und 30
+    werden wiederholt! ++++ Zur Lesbarkeit auf C transponiert.]
+
+TEST2
+STN[00000] ST[]
+CUT[Sakura]
+REG[Asien, Ostasien, Japan]
+SRC[Schaffrath: Musik in Asien II, S. 78]
+KEY[I0001  08  C 4/4]
+MEL[6_6_7_0_  6_6_7_.0
+    6_7_+1_7_  6_764_.0
+    3_1_3_4_  3_31-7_.0
+    6_7_+1_7_  6_764_.0
+    3_1_3_4_  3_31-7_.0
+    6_6_7_0_  6_6_7__
+    0_3_4__  764_3__ //]
+TXT[Sa- ku- ra, Sa- ku- ra,     *
+    Ya- yo- i no so- ra - wa,   *
+    Mi- wa- ta- su ka- gi - ri, *
+    Ka- su- mi ka ku- mo ka.    *
+    Ni- oi zo i- zu- ru - .     *
+    I- za- ya, I- za- ya,       *
+    Mi- ni yu - ka- n.] >>
+FCT[Volkslied]
+CMT[]
+
+TEST2
+STN[00000] ST[]
+CUT[Yang-Guan San Tie (Abschied der Freunde am Yang-Guan]
+REG[China]
+SRC[schriftlich]
+KEY[C0001  08  A 2/4]
+MEL[  -1_.-2  -4_-5_  -5__
+    -2_.-4  -6_.-5  -4_-5_  -5__
+    1_24  1__  -6_12  -6_-6-5  -4_-5-6  -1__
+    -4_.-2  -2_-2_  -1_-2_  -2__
+    -2_.-4  -6_.-5  -4_-5_  -5__
+    -5_.-4  -2_-4_  -4__
+    -2_2_  ^__  -2_2_  ^__
+    2_.1  2_12  -6__  -6__
+    -5_.-4  -2_-4_  -4__  -4__
+    -6__  ^_-4_  -5__
+    -6__  ^_-4_  -5__
+    -6__  -4_-5_
+    -2__  -1_-2_  ^__  -2__  -1_-2_  ^__
+    2_.4  5_4_  6_5_  5__
+    +1_+2+4  +1__  6_+1+2  6_.5  -4_-5_  5__
+    -6_4_  564_  2_45  2_.1  -1_12  -1__
+    4_.5  6_+1_  +16_5  -4_-5_  5__
+    -5_.-4  -2_-4_  -4__
+    -2_2_  ^__  -2_2_  ^__]
+MEL[2_.1  2_12  -6__  -6__
+    1__  2_4_  2__  1_-4_  242_  1_-6_  -6_.-5  -4__  -4__
+    -6_-6_  -6_-5_  -5_-5_
+    -4_-4_  -2_-2_  -4_-4_  -5_-5_  -6_-6_  1__
+    -6_.-5  -5_-5_  -6_-5_  -6-5-6-5  -5__  ^__] >>
+MOD[]
+CAD[-6__  ^_-4_  -5__  ^__  -6__  ^_-4_  -5__  ^__]
+ACC[-6__  1__  -6__  ^_-4_  -5__  ^__
+    -2__  ^_-1_  -2__  ^__  -2__  ^_-1_  -2__  ^__
+    6_.5  2_2_  2_.4  5_4_  6_5_  5__  6_-6_  6__  -5__  ^__ //]
+FCT[Kunstmusik fr Guqin]
+CMT[Transkription nach Reinhard. Muss noch verbessert werden!!!! +++++
+    Die Notation sollte im Baáschlssel erfolgen.]
+
+TEST2
+STN[00124] ST[KA]
+CUT[Buffalo Dance]
+REG[Amerika, USA, San Juan Pueblo]
+ETH[Indianer]
+SRC[Transkr. nach AAFS L 36)]
+KEY[C0003  08  C FREI]
+MEL[11  5_5_5_  5_645_64  65425421  211__1_
+    11  5_5_5_  5_645_64  65425421  211__1_
+    2_322_32  5421211__  111__1_10 //] >>
+FCT[Tanz]
+CMT[s. Schaffrath 1978b und Teilcurriculum 1979]
+
+TEST2
+STN[00124] ST[KA]
+CUT[Lullaby]
+REG[Amerika, USA]
+ETH[Indianer, Creek]
+SRC[Transkr. nach AAFS L 36)]
+KEY[C0004  08 Eb 4/4]
+MEL[3__1__
+    1-5_.1_.0
+    32_.1__
+    1-5_.1_.0
+    11231_.0
+    1_-5_1_.0
+    3_1_3_.0
+    113_1_.0
+    1_-5_1_.0
+    1_-5_1_.0
+    32_.1_.0
+    1-5_.1_.0
+    3__1__
+    1-5_.1_.0
+    11231_.0
+    1_-5_1_.0
+    3_1_3_.0
+    113_1_.0
+    1_-5_1_.0]
+MEL[1_-5_1_.0
+    32_.1_.0
+    1-5_.1__ //] >>
+FCT[Wiegenlied]
+CMT[s. Schaffrath Teilcurriculum 1979. Auch auf KA 00115? Die Phrasierung
+    ist eintaktig, um die Formelhaftigkeit des Liedes zu kennzeichnen. Die
+    Pausen wurden im Vgl. zur Transkription etwas verkrzt, um die T”ne
+    des Synthi besser ausklingen zu lassen.]
+
+TEST2
+STN[00000] ST[]
+CUT[Krti]
+REG[Asien, Sdasien, Indien]
+ETH[Inder]
+SRC[oral]
+KEY[C0005  16  C 4/4]
+MEL[0_1_1_1_5__(5__5_)  5__.5_(4_3b_4_)543b2
+    3b_1_1_1_5__(5__5_)  5__.5_(4_3b_4_)543b2
+    3b_1_1_1_5__(5__5_)  5__.5_(4_3b_4_)543b2
+    3b_3b_4_5_543b2(3b_1__)
+    5_6_7b_(+1__.+1_)  +1____
+    5_+1_+1_+1__(+1_+1__)  +1__.5_+1_+1_(+1_6_+16)  5____ //] >>
+FCT[Gesang, Gebet, Krti]
+CMT[Teiltrankskription!
+    s. Schaffrath 1978b und Teilcurriculum 1979. Aufnahme vorhanden!]
+
+F[PELOG1
+STN[00000] ST[00]
+CUT[Ladrangan Bima Kurda]
+REG[Asien, Sdostasien, Indonesion, Java]
+ETH[NN]
+SRC[Kunst, J.: Music in Java: ... ???]
+KEY[C0000  08  F 4/4]
+MEL[3_3_3_-7_  3_3_3_-7_  33-733454
+    3_3_3_-7_  3_3_3_-7_  3_3_3_-7_
+    3_-73_454  3__3_-7_
+    3_3_3_-7_  3_3_3_-7_  3_-73_454
+    3_.35345  45354535  4534_467  3_-73_454
+    3_.35345  45354535  4534_467  3_-73_454
+    3_.35345  457+17_54
+    3_.35345  457+17_54
+    341-7-7134  35434131
+    -74345431  -7-6#-7-6#4314
+    341-7-7134  35434131
+    -74345431  -7-6#-7-6#4314
+    3_3_3_-7_  3_3_3_-7_  3_3_3_-7_
+    3_-73_454  3___ //] >>
+FCT[Nuclear Melody]
+CMT[Pelog Patet Barang.
+    Entnommen aus Lehrerband "Musik h”ren-machen-verstehen"]
+
+F[CHINA_0
+STN[00000] ST[00]
+CUT[Alamuhan]
+REG[Asien, Ostasien, Xinjiang]
+ETH[Weiwuer: Uiguren]
+SRC[Zhongguo Mingge Xuan, S. 270, + "100 Chinesische Volkslieder" (19)]
+KEY[C1154  16  F 4/4]
+MEL[-5111-712_3__.+1_
+    7654312_1__0__
+    0_555_.6+1+1+1_0__
+    0_+1+1+1_6_665_0__
+    0_+1+1+1_+1_676_5__
+    0_553_3_223_0__
+    -51115_4_3__.+1_
+    7654312_1__0__
+    5555554_3__.+1_
+    76+3+2+167_+1__0__ //]
+TXT[A- la- mu- han shen - me yang? -  *
+    Shen- duan bu fei ye - bu shou.   *
+    Ta- de mei- mao xiang wan- yue    *
+    Ta- de yao- shen xiang nian- liu, *
+    Ta- de xiao- zui hen - duo- qing, *
+    Yan- jing neng shi ni fa- dou     *
+    A- la- mu- han shen- me yang? -   *
+    Shen- duan bu fei ye - bu shou.   *
+    A- la- mu- han shen - me yang? -  *
+    Shen- duan bu fei ye - bu shou.] >>
+FCT[Qingge]
+CMT[Wegen besserer Textverteilung in ESTAFF wurde die erste (wiederholte)
+    Phrase noch einmal getrennt. Dasselbe gilt fr die letzte und vor-
+    letzte. In die ersten beiden Zeilen geh”ren nun Wiederholungszeichen.
+    Die Tonart wurde wegen der Textverteilung hochgesetzt. Hat jemand den
+    original uigurischen Text?]
+
+F[CHINA_0
+STN[00026] ST[00]
+FA[Eigene Aufnahme]
+CUT[Taiyang chulai xiyangyang]
+CNR[29 (319) ((278))]
+REG[China, Sichuan, Ostteil]
+ETH[Han]
+SRC[II, 242]
+KEY[C0260  08  D 2/4]
+MEL[+2+3+2+1  +2_+30
+    +1+2+3+2  ^+160
+    56+16  +2+26_  5_60
+    +16+2+1  ^6+2_  ^__ //]
+TXT[Tai- yang chu- lai xi- yang                  *
+    xi- yang- yang (ou lang luo),                *
+    Tiao- qi bian- dan (lang lang che kuang che) *
+    Shang shan- gang (ou luo luo)] >>
+FCT[Shange, Luoer diao]
+CMT[Die Gattungsbzeichnung gilt den Fuellwoertern, die den Klang des Gongs
+    "Luo" imitieren.  Die Saengerin Lei Huilan ist Angehoerige der Zhuang
+    Minderheit und studiert an der Guangzhouer Musikhochschule.
+    aufgenommen am 5.5.87 +++ Komischer Grundton? +++
+    +++ AUCH AUF KASSETTE 1 = 46 CUT 2 (A-Seite) +++ MEHRMALS ! +++
+    Grundton liegt in der zweigestrichenen Oktave; Verzierung
+    Als Tonbeispiel vorhanden; Signatur: 00151, Cut Nr.: 17
+    Nach chinesischer Auffassung ist dies ein Zweizeiler (A-B).]
+
+F[TESTx
+STN[00000] ST[00]
+FA[NN]
+CUT[Muwaschah Lamma Bada]
+CNR[NN]
+REG[Asien, Vorderer Orient, Žgypten(?), Spanien(?)]
+ETH[Araber]
+SRC[Touma, H.H.: Die Musik der Araber 1975, S. 90/91]
+KEY[C0000  16  G FREI]
+MEL[5_  +1__+2+3b+4+3b+3b+2+2+1+17+1__+2+3b
+    +4__+5_+3b_.+2+2+1+17+1__+2+1
+    7__+1_6b_.56b56b75__6b5
+    4__5_3b_.22211-71__5_
+    +1__+2+3b+4+3b+3b+2+2+1+17+1__5_
+    +1__+2_+3b__+3b_+2+4+3b__+1_
+    +5__+4_+4+3b+3b+2+2+1+17b+1_+2+3b7b_
+    +1__+2_+3b__+3b_+2+4+3b__+2+3b
+    +4__+5_+3b_.+2+2+1+17+1__+2+1
+    7__+1_766b56b56b75__6b5
+    4__5_3b_.2211-71__23b
+    4__5_3b_.2211-71__0_ //] >>
+FCT[Textgebundene Musik]
+CMT[Die ersten vier Zeilen werden wiederholt.]
+
+F[TESTx
+STN[00000] ST[00]
+FA[NN]
+CUT[Mevlevi Ayini]
+CNR[NN]
+REG[Asien, Vorderer Orient, Trkei (?)]
+ETH[Trken ? Beduinen ?]
+SRC[Kuckertz, J.: Musik in Asien I, Begleitheft, S. 19 (Nr. 10)]
+KEY[C0000  16  G FREI]
+MEL[2__1_3_4_5__6__5_5_6_5_4_
+    5_4_3_4__5__5__1_5_4_4_5_
+    6_5_4_3_4_5__4__3_4__5_4_
+    3_2_343_4_3_2_4_3_2_3__4__
+    5__0_6__5__4__3_2_3_1__
+    5__.4_3_2__6_6_5_5__.0_
+    2__1_3_4_5__6__5_5_6_5_4_
+    5_4_3_4__5__^__1_5_4_4_5_
+    6_5_4_3_4_5__4__3_4__5_4_
+    3_2_343_4_3_2_4_3_2_3__4__
+    5__0_6__5__4__3_2_3_1__
+    5__.4_3_2__6_6_5_5__.0_
+    2__1_3_4_5__6__5_5_6_5_4_
+    5_4_3_4__5__^__1_5_4_4_5_
+    6_5_4_3_4_5__4__3_4__5_4_
+    3_2_343_4_3_2_4_3_2_3__4__
+    5__0_6__5__4__3_2_3_1__ //]
+TXT[-                  ???          *
+    - - - bi zu l ce la - - -       *
+    - - - le - - st se ma - -       *
+    - - - - - - - - he yi - hey hey *
+    hey hey ran a yi me - n         *
+    ca ri - me - - ni vay           *
+    Fe ri ra - - si ku lu - - -     *
+    - - - bi e h li ha - - -        *
+    - - - - - - - - he - yi hey hey *
+    hey hey ra na yi me - n         *
+    ca ni - me - - ni vay           *
+    De ri me - z he bi m - - -     *
+    '- - n ki ra n ha ra - - -       *
+    '- - - me - - st se ma - -       *
+    - - - - - - - - he - yi hey hey *
+    hey hey ra nay yi me - n.      *
+FCT[Improvisation beim Kaffeestampfen]
+CMT[Die Wiedergabe der Umschrift ist sehr unvollkommen!!!]
+
+F[TESTx
+STN[00000] ST[00]
+FA[NN]
+CUT[Muaschah "Imla-li"]
+CNR[NN]
+REG[Asien, Vorderer Orient, Syrien (?)]
+ETH[Araber]
+SRC[Touma, H.H.: Teilcurriculum 1980, S. 38 (+ 61)]
+KEY[C0000  32  D FREI]
+MEL[1___3b__2_3b_1_2_-7b1_-6b_-7b_-5_-7b_-5_-6b_-4__
+    -7b__-6b__-7b__1_2_1_2_3b_4_3b_2_1___-6b_-7b_
+    1__.-7b_-6b_-7b_1__4__^_4_3b_4_5_4_4_3b_3b_2_
+    4_3b_3b_2_2_1_2_1_-7b_3b_^_2__3b_4_3b_2_1_1__
+    5__.4_5_4_^_4_3b_4_3b_2_1_2_3b___2__
+    3b_4_3b__2__3b_4_3b_2_3b_4_3b_2_3b_4_3b__4__
+    4_3b_2_1_1__5_4_3b_4_3b_2_1_2_3b___.
+    -7b___-6b__-7b_1_-7b_-6b_-7b__1_1_3b__3b_2_2_1_
+    1_-7b_-7b_-6b_-6b_-5_-5__04_^4_3b_2_5_4_4_3b_3b_2_
+    4_3b_3b_2_2_1_2_.1-7b_3b_^_2__3b_4_3b_2_1_1__
+    1__.4_3b_4_5___4_.54_5_5___5__
+    5___5__6b_.54_7b_^_6b_7b_+1_7b_6b_5_5__
+    5___5__4___5_6b_7b_+1_7b_6b_5_4_3b_2_
+    1__0_5_6b_7b_+1___7b_+1_6b_7b_+1___+1__
+    7b__6b__5_.6b5_4_7b_^_5__5_4___5__
+    3b___3b_2_3b___5_4_3b_4_5_4_4_3b_3b_2_
+    4_3b_3b_2_2_1_2_.1-7b_3b_^_2__3b_4_3b_2_1_1__ //] >>
+FCT[Vokalform in der Kunstmusik]
+CMT[Die b werden hier oft als weiter erniedrigt angegeben.
+    Die Zeilen 1 bis 10 werden wiederholt.]
+
+TEST2
+STN[B0055] ST[TB]
+CUT[Farewell to the Warriors]
+REG[Amerika, USA]
+ETH[Indianer, Chippewa]
+SRC[Densmore, Fr.: Chippewa Music, Washington 1910]
+KEY[C0000  16  D 3/4 2/4]
+MEL[1_.1  5__.+1_5_.4  5___
+    +1_+1_  7b__.+1_  5__4___
+    3b_1_3b__.5_  3b_.13b___
+    5__.(454)3b_1_  4_.3b1_.-7b  1___ //]
+TXT[Um- be a- ni ma - djag     *
+    wa- si- gi- di- ja- min      *
+    ya wi a ya wi - a            *
+    ya ya - - wi a ya wi a - a.] >>
+FCT[NN]
+CMT[Zum Vergleich mit der Komposition von Griffes. Grundton ge„ndert.
+    Die Tonbandangabe bezieht sich auf Griffes. Weitere Chippewa-]
+
+

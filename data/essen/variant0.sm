@@ -1,0 +1,305 @@
+VARIANT
+CUT[nebal nebal sir dix sust]
+REG[Europa, Mitteleuropa, Schweiz, Oberwallis]
+KEY[V0001  08  G 2/4]
+MEL[-7b-7b-7b-7b  -7b_1_
+    -7b-7b-7b-7b  1-7b(-7b-7b-7b)
+    -7b-7b-7b-7b  1_0_
+    -7b-7b-7b-7b  -7b_1_
+    -7b-7b-7b-7b  -7b-7b1_
+    -7b-7b-7b-7b  -7b-7b1_  0__
+    -7b-7b-7b-7b  -7b-7b1-7b
+    -7b-7b-7b-7b  -7b-7b10 //] >>
+FCT[Brauchtum, Beschwoerung (Nebel)]
+
+VARIANT
+CUT[liabi liabi muatar gotis]
+REG[Europa, Mitteleuropa, Schweiz, Oberwallis]
+KEY[V0001A 08  G FREI]
+MEL[111111  1_2_
+    1_11112_
+    1111-7b-7b  1_0_  0__
+    1111  1_2_
+    1111  22
+    11-7b-7b  1_0_ //] >>
+FCT[Brauchtum, Beschwoerung (Nebel)]
+
+VARIANT
+CUT[liabi liabi muatar gotas]
+REG[Europa, Mitteleuropa, Schweiz, Oberwallis]
+KEY[V0001B 16  G 3/4 2/4]
+MEL[3b_3b_3b_3b_3b_3b_  3b__1__
+    (3b_3b_3b_)3b_3b_1__
+    3b_3b_3b_3b_3b_3b_  1__0__
+    3b_3b_3b_4_  3b__1__
+    3b_3b_3b_3b_  3b_3b_3b_4_2b_2b_  3b_.3b3b_0_
+    3b_3b_3b_4_  1__0__ //] >>
+FCT[Brauchtum, Beschwoerung (Nebel)]
+
+VARIANT
+CUT[Es geht nichts ueber die Gemuetlichkeit, eijo, bleib do]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Gleismuthhausen]
+KEY[V0002  32  C 2/4 3/4]
+MEL[-5__  1__1__1_.11_2_  3__3__3__5__  2___0__5__  1___0__
+    -5__  1__1__1__1_2_  3__3__3__5__  2___0__5__  1___0__
+    5_+1_  7____6___  5____4___  3___0__3__3___  0___
+    6___5___  4___0__3__4___  0___6___5___  3___0__2#__3___  0___
+    5___+1___  7____6___  5____4___  3___0__2#__3___  0____
+    5__5__  6___.6__6___  7___6___7___+1____.  ^___0___ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]
+
+VARIANT
+CUT[Es geht nix ueber die Gemuetlichkeit, eijo, eijo]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Gleismuthhausen]
+KEY[V0002A 32  F 2/4 3/4]
+MEL[-5__  1__1__1_-7_2_1_  -7__-6__-6__4__  -7___0__-5__  1___0__
+    -5__  1__1__1_.-72_1_  -7__-6__-6__4__  -7___0__-5__  1___0__
+    -5__  1___.1__1___  1___-7___1___  2___.-6__-6___  -6___0___
+    -6___  -7___.-7__-7___  -7___-6___-7___  1____2___  3___0___
+    -5___  1___.1__1___  1___-7___1___  2___.-6__-6___  -6___0___
+    -6___  -7___.-7__-7___  -7___-6___-7___  1____.  ^___0___. //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]
+
+VARIANT
+CUT[Es geht nix ueber die Gemuetlichkeit, eicha, eicha]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Toepen]
+KEY[V0002B 16  F 2/4]
+MEL[-5_  1_1_1121  -7_-6_-6_4_  -7__0_3_  1__0_
+    -5-5  1_1_1121  -7_-6_-6_4_  -7__0_3_  1__0_ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]
+
+VARIANT
+CUT[Es geht nix ueber die Gemuetlichkeit, eijo, eijo]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Autenhausen]
+KEY[V0002C 16  D 2/4]
+MEL[-5_  1_1_1234  6_5_3_5_  2__0_3_  1__0_ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]
+
+VARIANT
+CUT[Es geht nichts ueber die Gemuetlichkeit, eija, eijo]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Koednitz]
+KEY[V0002D 32  G 2/4 3/4]
+MEL[-5__  1__1__3_2_1_-7_  -6__-6__-6__4__  -7___0__5__  1___0__
+    -5_-5_  1_.11_1_3_2_1_-7_  -6__-6__-6__4__  -7___0__5__  1___0__
+    -5__  1___1__1__1___  3___2___1___  -6___.-6__-6___  2____
+    1___  -7___.-7__-7___  -7___-6___-7___  1____0__ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]
+
+VARIANT
+CUT[Es geht nix ueber die Gemuetlichkeit, heidi, heida]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Zochenreuth]
+KEY[V0002E 16  E 2/4]
+MEL[-5_  1_1_1121  -7_-6_-6_4_  -7__0_-5_  1__0_
+    -5-5  1_1_1121  -7_-6_-6_4_  1__0_-5_  1__0_
+    34  5_345_45  6_2_2_23  4_234_34  5_1_1_3_  1__0_5_  1__0_ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]
+
+VARIANT
+CUT[Es geht nix ueber die Gemuetlichkeit, ja, ja, ja, ja]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Kuemmersreuth]
+KEY[V0002F 16  G 2/4]
+MEL[-5_  1_1_1112  1_-7_-7_2_  -6__0_-7_  -5__0_
+    -5_  111_1112  1-7-7_-7_2_  -6__0_-7_  -5__0_ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]
+
+VARIANT
+CUT[Und es geht nix ueber die Gemuetlichkeit, eijou, bleib dou]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Puechitz]
+KEY[V0002G 16  G 2/4]
+MEL[13  5_5_5565  3_5_1_5_  -7__0_5_  1__0_ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]
+
+VARIANT
+CUT[Siehgst an doch do koemmt er, kleena Schrittla nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Autenhausen]
+KEY[V0003  16  C 2/4]
+MEL[-5_.-4-3_-4_  -5__1__
+    -5_.-4-3_-4_  -5__1__
+    2_.22_1_  -7_-6_-5__
+    -5_-5_-6_-7-7  1_1_1__ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Siehgst du net do kummt er, der besuffne Schinder]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Breitenlesau]
+KEY[V0003A 16  G 2/4]
+MEL[-5_.-5-6_-5_  -5__1__
+    1_1_1_1_  1__3__
+    3_.23_2_  2_1_-5__
+    -5_-5_-6_-7_  1_1_1__ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+CMT[In der dritten Zeile rhythmisch korrigiert]
+
+VARIANT
+CUT[Siehst du wohl, da kummt er, lange Schritte nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Grafengehaig]
+KEY[V0003B 16  F 2/4]
+MEL[-5_-5_-6_-5_  1__1__
+    -5_-5_-6_-5_  1__1__
+    3_.32_1_  1_-7_-7__
+    -7_.-6-7_-6_  -6_-5_-5__ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Sixt as net, da kuemmt er, klaana Schrittla nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Kirchahorn]
+KEY[V0003C 08  C 2/4]
+MEL[5554  3_3_
+    1165  5_4_
+    4443  222_
+    -7252  433_ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Siehgst as net, da kimmt er, der mit seim Zylinder]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Koednitz]
+KEY[V0003D 08  F 2/4]
+MEL[-5-5-6-5  -7_-7_
+    -5-5-6-5  1_1_
+    3321  1-7-7-7
+    11-7-6  -6-5-5-5 //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Siehgst as net, da kimmt er, der mit seim Zylinder]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Koednitz]
+KEY[V0003E 08  F 2/4]
+MEL[-5-5-6-5  -7_-7_
+    -5-5-6-5  1_1_
+    3321  1-7-4_
+    11-7-6  -6-5-3_ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Sixt as da, da kimmt er, klaana Schrittla nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Lindenhardt]
+KEY[V0003F 08  D 2/4]
+MEL[-5-5-6-5  -7_-7_
+    -5-5-6-5  1_1_
+    2221  -7-6-6_
+    -6-6-7-6  -6-5-5_ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Siehgst an net, do kuemmt er, klaana Schrittla nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Puechitz]
+KEY[V0003G 16  C 2/4]
+MEL[-5_.-5-6_-5_  -4__-7__
+    -4_-4_-5_-4_  -3__1__
+    3_.34_3_  3_2_2__
+    2_2_3_2_  2_1_1__ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Siehst du wohl, da kimmt er, grosse Schritte nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Schauenstein]
+KEY[V0003H 16  F 2/4]
+MEL[-5_.-5-6_-5_  -7__-7__
+    -5_-5_-6_-5_  1__1__
+    3_.34_3_  3_2_2__
+    2_.23_2_  2_1_1__ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Sixt as net, do kummt er, lange Schrittla nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Zochenreuth]
+KEY[V0003I 08  A 2/4]
+MEL[-5-51-5  -7_-6_
+    -4-4-7-4  -6_-5_
+    -5-5-6-3  -5-5-4_
+    -2-2-5-2  -4-4-3_ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Trau di, liebe Margaret, wie oft hab ich dei Wiesla gmaeht]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Koednitz]
+KEY[V0005  16  C 2/4]
+MEL[    5_.+17_6_  5_.53_
+    3_  5_4_4_4_  6_5_5_
+    5_  5_+1_7_6_  5_.53_
+    3_  5_5_5_4_  3__0__ //] >>
+FCT[Liebes - Lied, Leid]
+
+VARIANT
+CUT[Der Buechabecher Boder, der hot a sammats Kaeppl auf]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Buechenbach]
+KEY[V0005A 16  C 2/4]
+MEL[5_  5_+1_7_6_  5__3_
+    3_  5_4_4_4_  6_5_5_
+    5_  5_+1+17_6_  5__3_
+    3_  5_4_3_2_  1__0_
+    3_  2_.23_.3  4_.43_.
+    3  2_.23_.3  4__0_
+    5_  5_.55_.5  5__0_
+    5_  5_4_3_2_  1__0_
+    5_  5_+1_7_6_  5__3_
+    3_  5_4_4_4_  6_5_5_
+    5_  5_+1+17_6_  5__3_
+    3_  5_4_3_2_  1__0_ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Die Kauernburger Lena, die hot so gutn Schnupftabak]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Foelschnitz]
+KEY[V0005B 16  C 2/4]
+MEL[1_  1_3_5_+1_  5__3_.
+    3  5_4_4_4_  6_.55_
+    1_  1_3_5_+1_  5_.33_
+    5_  5_4_4_5_  3__0__ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Dahaam bo meiner Mutter, do rumplt alles um und um]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Grafengehaig]
+KEY[V0005C 08 Bb 2/4]
+MEL[1  1236  5_3
+    3  5444  655
+    1  1346  5_3
+    3  5442  1_0 //] >>
+FCT[Geselligkeits - Lied, Scherz]
+
+VARIANT
+CUT[Does Madla von der Gmaa hot schoene weisse Baa]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Breitenlesau]
+KEY[V0006  08  G 2/4]
+MEL[5  654#5  3_0
+    5  654#5  4_0
+    5  654#5  7_7_  6_6_  5_. //] >>
+FCT[Liebes - Lied]
+CMT[Bemerkung: "wird offenbar mit Schlussbildung wiederholt"]
+
+VARIANT
+CUT[As Maadla von Gmaa hot schoena weissa Baa]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Breitenlesau]
+KEY[V0006A 16  E 2/4]
+MEL[5_  6_5_4#_5_  3__0_
+    5_  6_5_4#_5_  4__0_
+    5_  6_5_4#_5_  7_.77_7_  6_6_6__  5__0_
+    5_  6_5_4#_5_  3__0_
+    5_  6_5_4#_5_  4__0_
+    5_  6_5_4#_5_  7_.77_7_  5_4_3_2_  1__0_ //] >>
+FCT[Liebes - Lied]
+
+VARIANT
+CUT[Das Madl von der Gmaa hat schoene weisse Baa]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Langenreuth]
+KEY[V0006B 16  D 2/4]
+MEL[3_  6_5_3_5_  3__0_
+    3_  6_.53_5_  4__0_
+    5_  5_.55_3_  4_7_7_
+    7_  5_5_4_2_  3_+1_+1_ //] >>
+FCT[Liebes - Lied]
+CMT[Bemerkung: "wird offenbar mit Schlussbildung wiederholt"]
+
+VARIANT
+CUT[Does Maala vo der Haa hot schoena weissa Baa]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Ort]
+KEY[V0006C 16 Bb 2/4]
+MEL[1_  5_.56_5_  3__0_
+    5_  5_5_6_5_  4__0_
+    5_  5_5_6_5_  777_0_
+    5_  5_5_6_5_  +1+1+1_0_
+    5_  5_5_6_5_  3__0_
+    5_  5_5_6_77  +1__0_ //] >>
+FCT[Liebes - Lied]
+
